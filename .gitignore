@@ -1,0 +1,17 @@
+.DS_Store
+.env*
+.private/
+node_modules/
+dist/
+.cache/
+tmp/
+*.log
+*.tmp
+*.bak
+*.pem
+*.key
+token.json
+tokens.json
+secret.json
+secrets.json
+credentials.json

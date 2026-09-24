@@ -1,0 +1,25 @@
+Suppose you need to get to the airport. On the same map, being in a hurry, spending less, and making fewer transfers lead to different route choices. Your starting point, remaining time, and real-time traffic conditions also change which routes are viable. You need to select the parts of the map relevant to this trip, compare different ways forward, and reassess when you encounter congestion.
+
+**Decision Space (DS) is a decision-modeling framework I am exploring: it organizes the factors that shape judgment and the candidate paths around a specific goal, then progressively converges on a viable course of action by adding information, applying constraints, and comparing outcomes.**
+
+A Decision Space needs to make the following elements explicit:
+
+- **Actor: who is judging and acting.** An actor has specific information, capabilities, resources, and permissions, and also bears the consequences of a choice. For example, a traveler makes the travel decision while a navigation system offers recommendations; the needs of companions may also affect the decision.
+- **Goal: what state should be reached.** For example, arriving at a specified boarding gate before boarding closes. A goal needs to be sufficiently clear to reveal the current gaps and determine whether an action is effective.
+- **Value function: how outcomes are evaluated and trade-offs made.** Provided that arrival is on time, should cost, comfort, or time buffer matter more? Different actors may make different choices even when facing the same situation.
+- **Current state and factors: what the situation is now and which factors affect judgment.** Examples include the current location, remaining time, amount of luggage, road congestion, and train schedules. The model needs to distinguish what is known from what is still missing, as well as each piece of information’s source and freshness.
+- **Constraints: which conditions must be satisfied.** Examples include a budget ceiling, transport operating hours, and the actor’s ability to act. Constraints determine whether a path is viable; preferences compare the relative quality of viable paths.
+- **Operators: how a specific calculation or judgment is performed.** Examples include estimating the total travel time for a route, checking whether the last train can be caught, and comparing the cost of two modes of travel. Each operator needs explicit inputs, applicability conditions, and outputs. Its result can become an input to later judgments.
+- **Paths: which judgments and actions can be combined into a viable plan.** For example, walking to a station, taking the metro, transferring to an airport express, and then proceeding to the boarding gate. A path contains dependencies between steps and may branch in response to information acquired along the way.
+
+Consider another example: a computer suddenly will not start. If the goal is to restore the computer to normal use, the decision needs to consider the cause of the failure, the feasibility of repair, and its cost. If the goal is to submit a file tonight, the first questions may instead be whether a backup exists, whether another device can be borrowed, and whether enough time remains. Once a usable backup is found, “continue working on another device” may become the currently viable path, while repair can wait.
+
+**The same real-world situation gives rise to different Decision Spaces when actors have different goals, constraints, and value trade-offs.** Some judgments also need to unfold into subproblems. For example, “can the backup be used?” requires checking whether the version is complete, whether it can be accessed, and whether it satisfies the submission requirements. The subproblem’s conclusion then returns to the higher-level space and affects path selection.
+
+Together, these elements determine the current Decision Space, which continues to change with new information and feedback from action. When information is insufficient, the next step may be further investigation or professional confirmation. When no existing path is viable, new options must be found, or the goal and constraints renegotiated.
+
+This representation aims to preserve not only the conclusion, but also the facts, rules, and trade-offs on which it depends. When conditions change, the dependency structure identifies which parts need to be reconsidered. People can inspect critical nodes, while agents can take on information gathering, calculation, comparison, and action execution within explicit boundaries.
+
+Atlas provides DS with a reusable map. Around a specific goal, DS selects the relevant objects and real-time state to form the Decision Space for the current problem. Information gaps discovered during decision-making, together with feedback from execution, can in turn help revise the map.
+
+At present, I am mainly using concrete cases to decompose decision structures and explore prototypes. I am further investigating how factors, operators, and their dependencies can be captured as reusable structures, so that an agent’s judgment process can be inspected, recomputed, and continuously improved.
