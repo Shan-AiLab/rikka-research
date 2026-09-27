@@ -1,27 +1,64 @@
-# rikka-research
-Research notes and evolving frameworks on complex systems, enterprise AI, Cognito Atlas and Decision Space.
+# Rikka Research
 
-这是 Rikka 公开文章与研究内容的版本档案。阅读网站：[rikkalab.com](https://rikkalab.com/zh/)。网站工程由独立的私有 `rikkalab` 仓库维护。
+从真实世界出发，探索复杂业务、数字系统与智能行动。
 
-中文是语义真相源；英文目录仅收录已有正式译文。待译页面不会以占位正文进入本仓库。
+这里收录我围绕表征、业务建模、企业数字化与 AI 展开的研究文章、方法框架和实践思考，也保留这些内容持续修订的过程。
 
-## 内容
+这些探索围绕一个共同的问题：
 
-- [中文理论](zh/research/)：世界观、Representation、Cognito Atlas、Decision Space。
-- [AI 与数字化](zh/digitalization/)：业务建模、治理能力、共享业务地图、企业 AI、Agent Harness 等文章。
-- [案例与思考](zh/cases/)：设备视图、产品定义与 BOM、OA 审批建模。
-- [English theory](en/research/) and [AI & Digitalization](en/digitalization/).
-- [文章 metadata](article-metadata.json)：标题、说明、网站路径、发布日期、更新日期、源码与历史链接。
-- [中英术语表](glossary.md)。后续研究笔记、论文可分别放入 `notes/`、`papers/`。
+**人、组织与 AI 如何理解复杂现实，形成可共享的认识，并在变化中持续作出判断与行动？**
 
-## 时间与历史
+个人站：[rikkalab.com](https://rikkalab.com/)
 
-`publishedAt` 是内容 metadata 显式维护的正式发布日期；`updatedAt` 是实质内容更新日期。导入、搬目录、同步、排版和 Git 提交不会自动改变这些日期。
+## 研究方向
 
-Git commit history 仅用于追溯实际公开版本。首次导入不表示文章首次发布，也不补造导入前的 Git 历史。阅读旧版本可在对应 Markdown 文件页面查看 History。
+### 表征、环境建模与决策
 
-## 网站同步
+我们无法直接把整个现实放进文档或系统。哪些差异值得保留，如何划分对象、组织关系、表达状态与规则，会影响我们能够理解什么、计算什么，以及采取什么行动。
 
-本仓库保存公开原文，网站仓库保留独立构建副本。Codex 同步维护两边正文和 metadata，检查内容哈希及日期一致性。网站构建不依赖本仓库在线，不使用 submodule。
+围绕这些问题，我正在持续整理三个相互关联的理论与方法方向：
 
-正文中的 `/zh/`、`/en/` 站内路径属于阅读网站，可通过 metadata 的 `websitePath` 打开文章。文章公开不代表授权任意再利用；目前未另行授予内容许可证。
+- **Representation｜表征**：现实如何经过选择与组织，进入我们的认知、交流和数字系统。
+- **Cognito Atlas｜认知地图**：如何组织对复杂世界的表征，使不同对象、关系、状态与视角能够相互对应，并持续更新。
+- **Decision Space｜决策空间**：如何围绕具体目标，组织事实、因子、约束与候选路径，让判断过程能够被检查、重算和改进。
+
+它们分别关注现实如何被表达、理解如何被组织，以及判断如何转化为行动，并通过行动反馈不断修正。
+
+### 业务建模、企业数字化与 AI
+
+企业是由业务、组织、系统和不同参与者共同构成的复杂世界。AI 进入企业，也会遇到业务定义、职责分工、系统边界与信息一致性等问题。
+
+这里的文章主要讨论：
+
+- 业务建模如何定义业务进入数字世界的方式。
+- 数字化如何提升复杂系统的治理能力。
+- 如何建立人与 Agent 共同使用的业务地图和环境模型。
+- 企业 AI 如何与真实业务、组织职责和现有系统衔接。
+- Agent Harness 在长期业务运行中需要承担哪些职责。
+
+### 案例与实践思考
+
+从具体问题出发，拆解需求背后的业务结构与建模选择。
+
+目前包括设备在不同职责下的视图、产品定义与 BOM、OA 审批建模等案例。它们既是实践经验的整理，也是检验和修正上述方法的起点。
+
+## 从哪里开始阅读
+
+- [理论与方法](https://github.com/Shan-AiLab/rikka-research/tree/main/zh/research)：从整体世界观进入，再阅读表征、Cognito Atlas 与 Decision Space。
+- [AI 与数字化](https://github.com/Shan-AiLab/rikka-research/tree/main/zh/digitalization)：阅读业务建模、企业 AI 与 Agent 相关讨论。
+- [案例与思考](https://github.com/Shan-AiLab/rikka-research/tree/main/zh/cases)：通过具体业务问题理解方法如何展开。
+- [English](https://github.com/Shan-AiLab/rikka-research/tree/main/en)：部分文章的英文译文，持续补充。
+
+## 持续演进
+
+这里既有相对完整的文章，也有仍在探索中的框架。内容会随着实践、讨论和新的认识持续修订，不应把所有表述视为已经定型的结论。
+
+文章以中文原文为准。可以通过各文件的 **History** 查看公开版本的变化；文章的发布日期与更新日期以内容记录为准，仓库提交时间不等同于首次发表时间。
+
+## 关于与交流
+
+我是 Rikka，产品经理与企业数字化顾问，目前关注复杂业务建模、企业数字化与产业 AI 实践。
+
+欢迎围绕具体问题、案例和不同观点展开交流。
+
+联系：[cs@rikkalab.com](mailto:cs@rikkalab.com)
