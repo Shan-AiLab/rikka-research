@@ -6,15 +6,15 @@
     {
       "id": "zh/worldview",
       "language": "zh",
-      "title": "世界观｜从理解世界到决策与行动",
-      "description": "从世界、表征、决策空间与行动出发，建立理解复杂现实、协作与持续行动的基础结构。",
+      "title": "把世界看成复杂系统｜从有限表征，到决策与行动",
+      "description": "从复杂系统与有限表征出发，围绕当前主体、目标和场景构建局部决策空间，并通过行动与反馈持续修正认识。",
       "file": "zh/research/worldview.md",
       "websitePath": "/zh/research/worldview/",
       "publishedAt": "2026-09-23",
-      "updatedAt": "2026-09-23",
+      "updatedAt": "2026-09-27",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/research/worldview.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/research/worldview.md",
-      "contentSha256": "90c19886f5ffad5242fe8b57a201d63daf559116272bccaf4668a645bf55a36d"
+      "contentSha256": "38ed2e4bd58422686ab9ec384689eba53d4011e84404f1f048a2e2c4a74793f0"
     },
     {
       "id": "zh/representation",
@@ -28,6 +28,19 @@
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/research/representation.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/research/representation.md",
       "contentSha256": "ac7f7809e3a83a7b125fb2b83f13a430a437eada6809bb487216b05092dd9487"
+    },
+    {
+      "id": "zh/shared-representation-computable-world",
+      "language": "zh",
+      "title": "从共享表征到可计算世界｜白板、Cognitive IR 到数字孪生，信息如何从“被理解”走向“可行动”",
+      "description": "从白板与 Cognitive IR 到业务数字孪生，探讨多个主体如何共同观察、修改和操作同一个持续更新、可计算的世界。",
+      "file": "zh/research/shared-representation-computable-world.md",
+      "websitePath": "/zh/research/shared-representation-computable-world/",
+      "publishedAt": "2026-09-27",
+      "updatedAt": "2026-09-27",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/research/shared-representation-computable-world.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/research/shared-representation-computable-world.md",
+      "contentSha256": "7c5234ca64a5cf57adac7caa9902e92560aa253b02ca6d6bcd72a5686d2e9759"
     },
     {
       "id": "zh/cognito-atlas",
@@ -188,15 +201,28 @@
     {
       "id": "en/worldview",
       "language": "en",
-      "title": "Worldview | From Understanding the World to Decision and Action",
-      "description": "A foundational structure for understanding complex reality, collaborating, and sustaining action through world, representation, Decision Space, and action.",
+      "title": "Seeing the World as a Complex System | From Limited Representation to Decision and Action",
+      "description": "Starting from complex systems and limited representations, construct a local Decision Space around the current actor, goal, and situation, and revise understanding through action and feedback.",
       "file": "en/research/worldview.md",
       "websitePath": "/en/research/worldview/",
       "publishedAt": "2026-09-23",
-      "updatedAt": "2026-09-23",
+      "updatedAt": "2026-09-27",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/research/worldview.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/research/worldview.md",
-      "contentSha256": "8cd995bf18980adb05e5a2829ad5b2b6751ca80734a0dfeb6d0be1dfb0be365b"
+      "contentSha256": "2f70c1a9b5fe81461735c269b946697e131f75491fa4bee66bf2e54e04831612"
+    },
+    {
+      "id": "en/shared-representation-computable-world",
+      "language": "en",
+      "title": "From Shared Representation to a Computable World | From Whiteboards and Cognitive IR to Digital Twins: How Information Moves from Being Understood to Enabling Action",
+      "description": "From whiteboards and Cognitive IR to business digital twins, explore how multiple actors can jointly observe, modify, and operate on the same continuously updated, computable world.",
+      "file": "en/research/shared-representation-computable-world.md",
+      "websitePath": "/en/research/shared-representation-computable-world/",
+      "publishedAt": "2026-09-27",
+      "updatedAt": "2026-09-27",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/research/shared-representation-computable-world.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/research/shared-representation-computable-world.md",
+      "contentSha256": "18789b7d6af58b89e67ccfed45a210bc3c9e44caee89b0ff6c3da3099a9c992c"
     },
     {
       "id": "en/cognito-atlas",

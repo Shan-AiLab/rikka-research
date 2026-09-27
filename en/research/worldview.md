@@ -1,116 +1,130 @@
-How do we understand a complex world, collaborate with others, and continue to make decisions and act as conditions change?
+The world in which we live and act can be understood as a continuously changing complex system.
 
-**World, representation, Decision Space, and action form the foundational structure of this approach.** Atlas and DS address different parts of that structure, while enterprise digitalization and AI implementation are its concrete expression in organizational settings.
+Humans, other carbon-based organisms, and the silicon-based intelligence now entering the real world are all intelligent actors within it. Each actor needs to perceive its environment, assess situations, and act with limited information, capabilities, and resources in order to survive, achieve its goals, and secure room for further development.
 
-## I. The world in which we act has a complex structure
+Yet no actor can access and process the world in its entirety. **How to confront an almost unlimited reality with limited cognition and turn that understanding into effective action is a fundamental problem shared by all intelligent actors.**
 
-Whether we are dealing with personal life, enterprise operations, or collaboration across society, we encounter different actors, resources, relationships, rules, activities, and continuously changing states.
+I currently describe this process in terms of four interconnected parts:
 
-These elements are interdependent. A change in one object may alter the state of another; a change in a rule may affect many people’s choices; achieving one local goal may consume resources needed by other goals.
+**World → Cognition and representation → Decision Space → Action**
 
-Every actor occupies a particular position, has its own goals, experience, and capabilities, and can access only part of the world. The same situation reveals different structures when observed from different positions.
+Action, in turn, changes the world. Those changes enter our understanding again, forming a continuous feedback loop.
 
-An order, for example, represents a commitment to the customer, work to be completed for production, material requirements for procurement, and revenue, cost, and cash arrangements for finance. These perspectives point to the same business fact while each preserving what matters for action from its own position.
+## I. The world is a complex system
 
-**Understanding complex reality requires identifying its objects, relationships, and changes, while also knowing from which perspective and at what resolution we are observing it.**
+By “world,” I do not mean a single system with a fixed boundary that contains everything.
 
-Some structures arise from natural conditions; others are established collectively by people. Organizational responsibilities, product definitions, transaction rules, and contractual commitments all need to be defined, interpreted, and maintained. We are not only understanding the world, but also helping shape it.
+Reality can be divided into many overlapping complex systems according to the questions and scope of attention involved. A person's life, a family, an enterprise, an industry chain, a city, or an ecosystem can each become the “world” we observe and act within. **A system's boundary depends on what we are focusing on and which interactions between its elements matter to the current problem.**
+
+The “world” here is therefore not limited to the physical world. Organizations, markets, software systems, and games can all constitute worlds that actors inhabit and need to understand and act within. They may contain physical objects, but also roles, rules, relationships, goals, information, and institutions and concepts established collectively by different actors.
+
+**In this sense, a world model is not the same as a model of the physical world. It is an actor's model of those parts of its world that matter for understanding and action.**
+
+However its boundary is drawn, such a world typically contains different actors, resources, relationships, rules, actions, and continuously changing states. These elements are interconnected. A change in one object may alter the state of another; a change in a rule may affect many people's choices; achieving one local goal may consume resources needed by other goals. Actions take place locally, but their effects may continue to propagate outward along relationships.
+
+Some structures arise from natural laws; others are established collectively by people. **States, money, laws, organizations, responsibilities, contracts, and commitments** all depend on shared definitions, interpretation, and maintenance, yet they have equally real effects on actors' choices and actions. We live in the world while also continually helping shape it through action.
+
+At the same time, every actor occupies a particular position in the world, with different goals, experience, capabilities, and information, and can access only part of reality.
+
+The same order represents a commitment to the customer, work to be completed for production, material requirements for procurement, and revenue, costs, and financial arrangements for finance. They face the same business world, but see different parts of it from different positions.
+
+Therefore, **understanding complex reality is not just knowing “what happened.” It also requires knowing which objects exist, how they relate and change, and from which perspective and at what resolution we are observing them.**
 
 ## II. To understand and collaborate, we form representations of the world
 
-Things in reality need to enter our understanding and communication through some form.
+The real world is too complex for any actor to access and process in full. What we can actually remember, discuss, compare, calculate, and manipulate is always a **representation** formed by selecting and transforming reality in some way.
 
-A mental model, a spoken sentence, a sketch on paper, a description in a document, a record in a table, and an object or state in a system are all representations. They preserve selected aspects of reality so that we can remember, discuss, compare, calculate, and act on them.
+A map is not a city, an organization chart is not an organization, and an order in an ERP system is not the real-world transaction itself. Each selectively preserves certain distinctions, relationships, and states within reality.
 
-Every representation involves trade-offs. An organization chart focuses on responsibilities and reporting relationships; a contract focuses on rights and obligations; a production schedule focuses on tasks, resources, and time. Their scope, mode of expression, and frequency of update also differ.
+Therefore, **every representation is lossy.**
 
-**The value of a representation lies in preserving the distinctions and relationships needed for current understanding and action.**
+This is not a flaw, but a prerequisite for a representation to be useful. If a subway map tried to show every building, tree, and side street in the city, it would instead lose its ability to help people use the subway.
 
-When multiple actors need to work together, the question becomes more demanding: are we describing the same object? Which moment in time does the state refer to? Are the concepts, rules, and premises for judgment consistent?
+The real question is never how to reproduce the world in full, but:
 
-A document can help people establish shared understanding, and a table can make facts comparable. But as the number of objects grows, relationships become more complex, and states keep changing, we also need to manage how different representations correspond to one another:
+**For our current understanding and action, which features are worth identifying and marking out?**
 
-- How is the same object identified across different records?
-- How do descriptions from different perspectives connect to shared facts?
-- How should definitions, instances, states, and rules each be represented?
-- When reality changes, which content needs to be updated?
+When multiple actors need to collaborate, a further question arises: can their representations be related to one another?
 
-Traditional digitalization is one form of representation. Project backgrounds, specs, and other materials in today’s Markdown documents also contain extensive representations of the world. Cognito Atlas grows out of this question: **organizing our representations of the world so that objects, relationships, states, and content from different perspectives can correspond to one another and be continuously maintained.**
+Are we talking about the same object? Does the state refer to the same moment in time? Are our concepts, rules, and premises for judgment consistent?
 
-Such representations can contain both structured and unstructured content. Narrative preserves context, tables organize comparable attributes, diagrams express relationships, state models carry change, and rules and constraints support inspection and computation.
+This is why representation concerns not only how individuals understand the world, but also the foundations of collaboration among people, systems, and agents.
 
-In settings that require continuous sensing, monitoring, and simulation, these representations can be connected further and kept synchronized with reality to form a digital twin. It is an idealized form of representation, much like a map that provides live traffic conditions.
+I explore why representations are necessarily lossy, how perspective and resolution affect the world we see, and how structured data, natural language, graphs, trees, state machines, constraints, and other forms can jointly represent reality in a separate article:
 
-## III. Constructing a Decision Space around a goal and situation
+[**Representation | What AI Can Understand Depends on How the World Is Represented**](https://rikkalab.com/en/research/representation/)
 
-Once we have an understanding of the world, we still need to answer a concrete question: what should we do next?
+## III. Action needs the part relevant to the current problem, not the whole world
 
-The same facts produce different judgments under different goals and situations. Faced with the same inventory, “deliver as quickly as possible,” “reduce capital tied up,” and “secure future supply” each direct attention to different factors, constraints, and trade-offs.
+Even if we already have a sufficiently good map of the world, each action does not require us to process everything on that map.
 
-We therefore need to select the relevant content from existing representations and organize it around the current problem:
+Suppose someone needs to travel from home to the airport. A city map may contain thousands of roads, buildings, subway lines, and public facilities, but most of that information is irrelevant to this trip.
 
-Who is making the judgment? What outcome do they want? Which facts affect the result? What constraints and possible actions exist? Along which paths will different choices have effects? By what criteria should those outcomes be evaluated?
+Once **the actor, current location, and goal** are established, the initial focus needs to be only on a local part of the map.
 
-**DS—Decision Space—addresses how these elements of judgment and their dependencies can be organized into an explicit structure.**
+If the goal becomes “reach the airport as quickly as possible,” live traffic and estimated travel time become important. If the aim is to “spend as little as possible,” transport options and prices enter the judgment. If the person has a lot of luggage, “fewer transfers” may become a new constraint.
 
-It involves selecting information from existing representations, adding missing factors, organizing constraints, constructing viable paths, and making value trade-offs explicit.
+The map has not changed, but **the decision-relevant information needed for the current problem has.**
 
-In this process, information gaps themselves become objects of judgment. Which unknowns could change the choice and are worth investigating further? Which will not affect action for now and can remain as uncertainty?
+We therefore do not need to build a new world model for every problem. A more reasonable approach is:
 
-Atlas and DS therefore connect to one another:
+**On top of a relatively stable representation of the world, dynamically select the local part relevant to this judgment according to the current actor, goal, and situation.**
 
-**Atlas organizes our understanding of the world; DS organizes our judgment about a specific problem.**
+I call this local part a **Decision Space**.
 
-The same representation of the world can support multiple Decision Spaces. Problems discovered while constructing a Decision Space can, in turn, drive the representation to be extended, corrected, and reorganized.
+It contains the current goal, relevant facts, factors that influence judgment, constraints, possible actions, different paths and their outcomes, and the actor's way of evaluating those outcomes.
 
-## IV. Action and feedback keep changing the world while revising the representation system
+In this way, an almost unlimited real-world problem can gradually be reduced to a finite, inspectable, computable space.
 
-Judgment needs to become action, and action produces real outcomes.
+I explore how to construct such a local problem space and progressively converge by gathering information, applying constraints, and comparing paths here:
 
-A purchase changes the state of resources; an organizational adjustment changes relationships of responsibility; a conversation may change participants’ understanding and commitments. The world after an action is no longer the same as the world before it.
+[**Decision Space | Turning Complex Problems into Decision Spaces That Can Converge and Be Solved**](https://rikkalab.com/en/research/decision-space/)
 
-These changes need to be sensed and represented again, and the representation system needs to be updated. We can then inspect whether the action was completed, whether the outcome matched expectations, whether our prior understanding of facts, relationships, and causality needs revision, and whether the goals and strategy still apply.
+Before Decision Space, however, there is another question: **how should the reusable “map” itself be organized?**
 
-**World—representation—Decision Space—action thus form a continuous feedback loop.**
+I discuss the relatively stable organization of objects, relationships, states, and different perspectives further in **Cognito Atlas**:
 
-Participants in this loop may be people, software systems, or agents. Any of them may participate in acquiring information, maintaining representations, making judgments, and executing actions. Their division of labor depends on the task and on what each participant can access and operate.
+[**Cognito Atlas | Building a Shared Cognitive Map of Complex Reality**](https://rikkalab.com/en/research/cognito-atlas/)
 
-An agent can organize documents, propose revisions to a model, or call tools to execute actions. A system can record events, calculate results, and make choices under explicit rules. People can take part in observation, interpretation, design, judgment, and action at every stage.
+A rough way to understand the relationship is:
 
-Reliable collaboration among these participants requires a clear expression of the facts each uses, the tasks each undertakes, the operations each can perform, and the feedback produced by action.
+**Atlas provides the map; for a particular action, Decision Space selects from that map the local part that needs to be addressed now.**
 
-## V. Enterprise digitalization is this logic unfolding inside an organization
+## IV. Action changes the world, and feedback revises our representations
 
-An enterprise is a concrete world in which multiple actors continuously collaborate around goals, resources, and rules.
+Decisions ultimately need to become actions, and actions change the world again.
 
-As the scale of the business and the complexity of collaboration increase, more facts, relationships, and judgments need to be externalized, shared, and maintained. One person’s experience needs to be understood by others, the state of one department needs to be used by another, and a change needs to propagate along business relationships to the relevant places.
+Return to the trip to the airport.
 
-Digitalization provides a durable substrate for this work: business facts can be recorded, objects and relationships connected, states updated, and rules, computations, and actions shared.
+Once the person starts along the chosen route, their location changes. If congestion suddenly appears ahead, the environment changes too. If they miss a subway train, a previously feasible path may no longer be available. These changes feed back into the map, and the current Decision Space changes with them. The original judgment may remain valid, or it may need to be recalculated and a different option chosen.
 
-This naturally raises a question:
+The same applies to other actions in reality.
 
-**What representation does an enterprise need so that different roles can understand the same business situation and collaborate and act on it?**
+A purchase changes inventory and cash balances; an organizational adjustment changes relationships of responsibility; a conversation may change participants' understanding and commitments. The world after an action is no longer the same as the world before it.
 
-This is also the starting point for asking why an enterprise needs a Business Atlas. A Business Atlas helps organize the objects, relationships, activities, rules, and responsibilities within an enterprise, allowing information scattered across people’s experience, documents, and systems to return to an interconnected business structure.
+The new state of the world needs to be perceived and expressed again, updating our existing representations. New information may then change the current Decision Space, triggering another round of judgment and action.
 
-Building these representations repeatedly exposes more fundamental questions: how is a product actually defined, how should responsibilities be divided, who maintains the rules, and how should competing goals be balanced? These questions must be answered at the business and organizational levels, then carried by systems and agents.
+This is therefore not a one-way sequence, but a continuously operating loop:
 
-Enterprise implementation can therefore unfold further along **Business → Organization → Systems → Agents**.
+**World → Representation → Decision Space → Action → Changes in the world → Updates to representation…**
 
-The maturity of the representation also determines what kinds of governance and decision-making the entire loop can support. Which objects it covers, whether relationships are complete, whether semantics are consistent, and whether states are timely determine the scope within which we can see conditions clearly, trace impacts, coordinate action, and run simulations.
+We can never obtain a complete, static, and absolutely correct world model.
 
-Three dimensions need to be distinguished:
+What truly matters is **whether we can preserve the structure needed for current action, keep revising it as the world changes, and base new judgments on updated understanding.**
 
-- **Representation maturity:** how fully the world has been represented and whether those representations can remain usable over time.
-- **Governance and decision capability:** which problems can be identified, judged, coordinated, and adjusted under current conditions.
-- **Actor access capability:** where people, systems, and agents can participate and which operations each can undertake.
+## V. Building further on this foundational structure
 
-These dimensions build on the same foundational structure. As representations improve, collaboration and decision-making can expand across a wider scope; new actions and problems then continue to drive further improvements in representation.
+This structure is not specific to AI, nor is it specific to enterprises.
 
-## Related content
+Individuals making choices, organizations coordinating resources, software systems operating according to rules, and agents acting continuously in an environment can all be understood through the same basic structure: actors face a complex world, understand it through limited representations, form local Decision Spaces around their current goals, act, and continually revise their understanding through feedback.
 
-- **Representation:** how reality is represented and how different forms can carry understanding together.
-- [**Cognito Atlas**](/en/research/cognito-atlas/): how objects, relationships, states, and multiple perspectives are organized.
-- [**Decision Space**](/en/research/decision-space/): how an inspectable Decision Space is constructed around goals and situations.
-- [**Why does enterprise AI need a shared Business Atlas?**](/en/digitalization/shared-business-map/): how an enterprise forms a shared, maintainable business representation.
-- **Enterprise digitalization and AI implementation:** how a continuously operating collaboration loop is built from business and organization through systems and agents.
+On this foundation, I am currently pursuing several directions:
+
+- [**Representation**](https://rikkalab.com/en/research/representation/): how reality is selectively represented, and how different forms jointly support our understanding of the world.
+- [**Cognito Atlas**](https://rikkalab.com/en/research/cognito-atlas/): how to organize relatively stable, shared, and continuously maintainable representations of the world.
+- [**Decision Space**](https://rikkalab.com/en/research/decision-space/): how to select a local problem space from the world around a particular actor, goal, and situation, and progressively arrive at feasible action.
+- [**Enterprise digitalization and AI implementation**](https://rikkalab.com/en/digitalization/): how this structure takes shape across business, organization, systems, and agents when multiple actors need to collaborate over time within organizations.
+
+They address different levels of the problem, but share the same starting point:
+
+**We inhabit a complex and continuously changing world. The foundation of intelligence is not possessing everything there is to know about that world, but forming representations sufficient for current understanding and action, and continually revising them through action and feedback.**

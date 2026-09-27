@@ -11,6 +11,7 @@
 | 业务地图 | Business Atlas | 理论概念固定使用 `Business Atlas`；需要强调它表示完整业务世界时可写作 `Business World Atlas`。只有明确指现实中的交通地图、城市地图或导航地图时才使用 `map`。 |
 | 业务建模 | Business Modeling | 指主动设计现实业务如何进入数字世界，并持续维护业务对象、关系、状态、规则等表征结构的建模活动。作为本文定义的概念时使用首字母大写。 |
 | 表征 | Representation | 指现实经过选择和转换后进入认知、交流、计算与行动的表达；不要在同一语境中与 `presentation` 混用。 |
+| 认知中间表征 | Cognitive IR | 作者提出的概念，IR 指 intermediate representation；保留 `Cognitive IR` 写法，指适合人、Agent 与系统共同读写、显式承载思考结构的中间表征。 |
 | 业务对象 | Business Object | 指企业业务中可被稳定识别和引用的对象。 |
 | 数字世界 | Digital World | 指业务在数字环境中的结构化表达。 |
 | 主体 | Actor / Agent | 一般复杂系统、人与组织等行动主体使用 `actor`；明确指 AI 时使用 `agent`。不要机械翻译为 `subject`。 |
