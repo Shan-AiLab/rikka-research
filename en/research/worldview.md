@@ -116,7 +116,9 @@ What truly matters is **whether we can preserve the structure needed for current
 
 This structure is not specific to AI, nor is it specific to enterprises.
 
-Individuals making choices, organizations coordinating resources, software systems operating according to rules, and agents acting continuously in an environment can all be understood through the same basic structure: actors face a complex world, understand it through limited representations, form local Decision Spaces around their current goals, act, and continually revise their understanding through feedback.
+This loop leads to a further judgment: **agents and their environments need to be modeled together.** What information an actor can obtain, what judgments it can form, and what actions it can take depend on its own capabilities, as well as on the structure and rules of its environment. Actions, in turn, change the environment and shape the conditions for the next round of judgment. Understanding and designing intelligent systems therefore requires describing the actor, the environment, and the relationships of perception, action, and feedback between them.
+
+This also means that we can improve an intelligent system’s practical performance by working on both the actor’s capabilities and its environmental conditions. Improving how information is organized, making rules clearer, and providing timely feedback on the results of actions can all change how difficult it is for an actor to complete a task. I explore how modeling them together can help us identify where a problem lies and which part to improve in [“Agents and Environments Need to Be Modeled Together”](https://rikkalab.com/en/research/agent-environment-co-modeling/).
 
 On this foundation, I am currently pursuing several directions:
 
