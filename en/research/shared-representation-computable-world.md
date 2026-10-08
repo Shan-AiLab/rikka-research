@@ -92,4 +92,4 @@ Future agent collaboration should not primarily take the form of “I read your 
 
 **Multiple actors jointly observing, modifying, and operating on the same continuously updated, computable world.**
 
-Only then do multiple agents truly begin to collaborate.
+At that point, collaboration among multiple agents has a shared foundation that can be maintained over time.
