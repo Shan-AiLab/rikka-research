@@ -46,6 +46,19 @@
       "contentSha256": "ac7f7809e3a83a7b125fb2b83f13a430a437eada6809bb487216b05092dd9487"
     },
     {
+      "id": "zh/office-tools-representation-infrastructure",
+      "language": "zh",
+      "title": "Word、Excel、PPT：被忽略的基础设施",
+      "description": "文档、表格与空间画布承载不同形式的共享表征；下一代基础设施需要让人和智能系统共同理解、维护和操作这些结构。",
+      "file": "zh/research/office-tools-representation-infrastructure.md",
+      "websitePath": "/zh/research/office-tools-representation-infrastructure/",
+      "publishedAt": "2026-10-10",
+      "updatedAt": "2026-10-10",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/research/office-tools-representation-infrastructure.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/research/office-tools-representation-infrastructure.md",
+      "contentSha256": "dba6de1384a43959b10998e8aeb00b6d6a84982f6f5fd129887e37c117b6d20c"
+    },
+    {
       "id": "zh/shared-representation-computable-world",
       "language": "zh",
       "title": "从共享表征到可计算世界｜白板、Cognitive IR 到数字孪生，信息如何从“被理解”走向“可行动”",
@@ -223,6 +236,19 @@
       "contentSha256": "79fb2c011d64657823c50692f9af69db0c48b8d769d69479c4e2232379b60eb2"
     },
     {
+      "id": "zh/context-engineering-scratchpad-management",
+      "language": "zh",
+      "title": "Context Engineering：一场草稿纸管理工程",
+      "description": "草稿纸是外挂工作记忆，业务对象与共享状态则需要由环境持续承载。Agent 需要多少记忆，也取决于数字世界已经替它承载了多少信息。",
+      "file": "zh/digitalization/context-engineering-scratchpad-management.md",
+      "websitePath": "/zh/digitalization/context-engineering-scratchpad-management/",
+      "publishedAt": "2026-10-10",
+      "updatedAt": "2026-10-10",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/digitalization/context-engineering-scratchpad-management.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/digitalization/context-engineering-scratchpad-management.md",
+      "contentSha256": "c278bddf8ee66bdbbf927ba29eea6f72953df8b03a0c1ce0722f823658ebc8ab"
+    },
+    {
       "id": "en/worldview",
       "language": "en",
       "title": "Seeing the World as a Complex System | From Limited Representation to Decision and Action",
@@ -249,6 +275,19 @@
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/research/agent-environment-co-modeling.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/research/agent-environment-co-modeling.md",
       "contentSha256": "facb45d328c1fad8410f31be02a1884a9eaee152bebb9215ffcb3d23684576c6"
+    },
+    {
+      "id": "en/office-tools-representation-infrastructure",
+      "language": "en",
+      "title": "Word, Excel, PowerPoint: Overlooked Infrastructure",
+      "description": "Documents, spreadsheets, and spatial canvases carry different forms of shared representation. The next generation of infrastructure must enable people and intelligent systems to jointly understand, maintain, and operate these structures.",
+      "file": "en/research/office-tools-representation-infrastructure.md",
+      "websitePath": "/en/research/office-tools-representation-infrastructure/",
+      "publishedAt": "2026-10-10",
+      "updatedAt": "2026-10-10",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/research/office-tools-representation-infrastructure.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/research/office-tools-representation-infrastructure.md",
+      "contentSha256": "e4f632b7fb47828caf6422cf5a2058a124a83f1fbf3b08b4d43533880f3cd20c"
     },
     {
       "id": "en/shared-representation-computable-world",
@@ -318,6 +357,19 @@
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/business-modeling.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/business-modeling.md",
       "contentSha256": "691723f496976f302ee46030def0a3822e97c193bd3562233007fa415b8d4036"
+    },
+    {
+      "id": "en/context-engineering-scratchpad-management",
+      "language": "en",
+      "title": "Context Engineering: An Exercise in Scratch-Paper Management",
+      "description": "Scratch paper provides external working memory; business objects and shared state need to be maintained by the environment. How much memory an agent needs also depends on what its Digital World already holds.",
+      "file": "en/digitalization/context-engineering-scratchpad-management.md",
+      "websitePath": "/en/digitalization/context-engineering-scratchpad-management/",
+      "publishedAt": "2026-10-10",
+      "updatedAt": "2026-10-10",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/context-engineering-scratchpad-management.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/context-engineering-scratchpad-management.md",
+      "contentSha256": "526178345ef041754d3f025b9dcf00c2403fce85197401dead284c627f5a7c49"
     }
   ]
 }
