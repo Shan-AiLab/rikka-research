@@ -46,6 +46,6 @@ AI 的出现并没有改变这种需求，而是让我们有机会进一步解�
 
 相关阅读：
 
-[《表征｜AI 能理解什么，取决于世界如何被表示》](https://rikkalab.vercel.app/zh/research/representation/)
+[《表征｜AI 能理解什么，取决于世界如何被表示》](https://rikkalab.com/zh/research/representation/)
 
-[《从共享表征到可计算世界》](https://rikkalab.vercel.app/zh/research/shared-representation-computable-world/)
+[《从共享表征到可计算世界》](https://rikkalab.com/zh/research/shared-representation-computable-world/)

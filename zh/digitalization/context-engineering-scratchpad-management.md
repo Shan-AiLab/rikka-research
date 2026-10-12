@@ -66,4 +66,4 @@ Agent 的出现，当然会对这些基础设施提出新的要求。现有系�
 
 **草稿纸管理得再先进，也不会自动长成一个数字世界。**
 
-相关阅读：[《表征｜AI 能理解什么，取决于世界如何被表示》](https://rikkalab.vercel.app/zh/research/representation/)
+相关阅读：[《表征｜AI 能理解什么，取决于世界如何被表示》](https://rikkalab.com/zh/research/representation/)

@@ -10,7 +10,7 @@ On the contrary, once the vehicle begins to act autonomously, questions such as 
 
 Enterprise AI faces the same class of problem.
 
-We have spent a great deal of effort discussing model capabilities, agents, harnesses, knowledge bases, and context engineering—how AI reasons, executes, and closes the loop. Beneath these questions, however, lies a more fundamental one that has received far less attention:
+We have spent a great deal of effort discussing model capabilities, agents, harnesses, knowledge bases, and context engineering—how AI reasons, acts, and learns from feedback. Beneath these questions, however, lies a more fundamental one that has received far less attention:
 
 What kind of business world should AI live in?
 
@@ -20,7 +20,7 @@ I call this the Business Atlas.
 
 The map metaphor makes it easier to understand what a Business Atlas should contain.
 
-A city map contains hospitals, airports, restaurants, and subway stations: POIs that can be identified consistently. An enterprise has its own “POIs”: customers, contracts, orders, projects, products, equipment, materials, suppliers, tasks, and more. These relatively stable things that can be recognized and referenced are Business Objects.
+A city map contains hospitals, airports, restaurants, and subway stations: points of interest (POIs) that can be identified consistently. An enterprise has its own “POIs”: customers, contracts, orders, projects, products, equipment, materials, suppliers, tasks, and more. These relatively stable things that can be recognized and referenced are business objects.
 
 But POIs alone do not make a map. A map becomes useful because roads and topological relationships connect those locations.
 
@@ -66,13 +66,13 @@ In Sapiens, Yuval Noah Harari offers a useful idea. One important reason humans 
 
 Companies, legal entities, contracts, equity, and organizational roles have similar properties. Physically, a contract may be only a few sheets of paper or a set of electronic records. But once the participants collectively recognize that “this contract is in force and creates these rights, responsibilities, and delivery commitments,” it can set an entire organization in motion.
 
-From this perspective, an enterprise is itself a collaborative system built on a shared business reality. ERP, CRM, office automation, workflow, and other digital systems have already carried part of that reality: they gave business concepts such as contracts, customers, orders, and approvals—once scattered across human memory and paper records—a shared digital form.
+From this perspective, an enterprise is itself a collaborative system built on a shared business reality. Enterprise resource planning (ERP), customer relationship management (CRM), office automation (OA), workflow, and other digital systems have already carried part of that reality: they gave business concepts such as contracts, customers, orders, and approvals—once scattered across human memory and paper records—a shared digital form.
 
 In the past, most intelligent actors participating in this world were human. Today, silicon-based intelligence is entering the same collaborative network.
 
 When someone says, “This project is at risk,” whoever handles it next—another colleague or an agent—must know exactly which business object “this project” refers to and be able to follow its relationships to the contract, deliverables, materials, and tasks. When a procurement agent hands an exception to a procurement specialist, both must also share the enterprise’s procurement rules: what requires approval, which actions are permitted, and where the boundaries lie.
 
-Some of this has existed in digital systems; some remains in human experience and unstructured documents. As agents enter the enterprise, a harness that assembles context ad hoc will become increasingly insufficient. Collaboration needs more than an answer to “What information should the model receive in this conversation?” It also needs a more stable set of Business Semantics that humans and AI can identify together.
+Some of this has existed in digital systems; some remains in human experience and unstructured documents. As agents enter the enterprise, a harness that assembles context ad hoc will become increasingly insufficient. Collaboration needs more than an answer to “What information should the model receive in this conversation?” It also needs a stable set of shared business definitions and meanings that humans and AI can refer to consistently.
 
 This is the value of the Business Atlas as a shared coordinate system.
 
@@ -86,7 +86,7 @@ In the same city of Tokyo, a tourist cares about attractions, hotels, and transi
 
 The same applies to an enterprise. The underlying world is shared, while the view should change with the actor, task, and current state.
 
-An executive may begin at the operating level, seeing several core objectives and the projects that threaten them. After identifying an abnormal project, they can drill down into delivery performance, zoom further into a particular deliverable, and finally locate a specific material shortage and procurement task. A procurement specialist may travel in the opposite direction: starting from the local exception of a supplier delay, then zooming out along object relationships to determine which project, contract, or even business objective it will ultimately affect.
+An executive may begin at the business level, seeing several core objectives and the projects that threaten them. After identifying a project with a problem, they can drill down into delivery performance, zoom further into a particular deliverable, and finally locate a specific material shortage and procurement task. A procurement specialist may travel in the opposite direction: starting from the local exception of a supplier delay, then zooming out along object relationships to determine which project, contract, or even business objective it will ultimately affect.
 
 This resembles zooming a digital map. When planning across a long distance, we do not need to see every lane marking. At a complex intersection, city-level information recedes into the background and the local structure takes priority.
 
@@ -108,7 +108,7 @@ The real value of a Business Atlas is that it allows the system to derive the re
 
 Enterprise AI should work the same way. A particular decision may not require everything happening across the enterprise. It may instead require deciding which part of the Business Atlas to expose, what level of resolution to use, which relationships to expand, and which real-time states actually affect the current objective.
 
-Seen this way, the Business Atlas and context belong to two different layers. The Business Atlas maintains a complete and relatively stable world structure. Context is a task-specific local view computed from the Business Atlas and its current state.
+Seen this way, the Business Atlas and context belong to two different layers. The Business Atlas maintains a complete and relatively stable representation of the business world within the chosen scope. Context is a task-specific local view computed from the Business Atlas and its current state.
 
 Without an underlying Business Atlas, every attempt to construct context risks guessing again from raw materials what might be relevant. With one, context becomes a computable view rather than an ad hoc bundle of documents.
 
@@ -132,7 +132,7 @@ Enterprises produce vast amounts of “experience” every day: meeting notes, p
 
 A ten-page retrospective on a delayed project may contain a great deal of valuable information. In the next project, however, the difficult question is: in what way is today’s situation actually similar to the previous one?
 
-If the past experience can be attached to stable business objects, it gains coordinates. We can know which project it occurred in, which products and materials were involved, which supplier it concerned, how a particular task changed at the time, and through which relationships that change ultimately affected delivery. Only when a similar structure appears again can the earlier experience truly be retrieved.
+If the past experience can be attached to stable business objects, it gains coordinates. We can know which project it occurred in, which products and materials were involved, which supplier it concerned, how a particular task changed at the time, and through which relationships that change ultimately affected delivery. When a similar structure appears again, the earlier experience can be retrieved and applied in context.
 
 Otherwise, so-called “enterprise knowledge” easily becomes an ever-growing text repository.
 
@@ -140,11 +140,11 @@ This is also why I remain skeptical of the idea that “if we give AI every ente
 
 The truly difficult knowledge often lies between the materials: which rules still apply, why this is the current objective, why one object affects another, who should make the judgment when conflicts arise, and why a local action eventually affects the overall outcome.
 
-AI can drive the cost of reading one hundred thousand pages close to zero. But if the world behind those pages has not been organized, what it gains is still only one hundred thousand pages.
+AI can dramatically reduce the cost of reading one hundred thousand pages. But if the world behind those pages has not been organized, what it gains is still only one hundred thousand pages.
 
 Reading faster does not automatically organize the world into a Business Atlas.
 
-## AlphaZero never operated without an explicit world model
+## AlphaZero started with an explicitly defined game
 
 Go offers another useful comparison.
 

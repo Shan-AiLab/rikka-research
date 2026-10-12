@@ -2,7 +2,7 @@ In a meeting, as soon as a problem becomes even slightly complex, people natural
 
 Behind this habit lies a simple fact: **natural language alone is not well suited to carrying every kind of structure.**
 
-Language is good at explaining context, expressing judgments, and adding exceptions. But when a problem involves many objects, relationships, states, constraints, and dependencies at once, listeners must reconstruct the structure in their minds while trying to understand the content. The versions they reconstruct may not even be the same. This is why proposals need to be reviewed: review is a necessary, but insufficient, path to consensus.
+Language is good at explaining context, expressing judgments, and adding exceptions. But when a problem involves many objects, relationships, states, constraints, and dependencies at once, listeners must reconstruct the structure in their minds while trying to understand the content. The versions they reconstruct may not even be the same. This is why proposals need to be reviewed: review is necessary for reaching a shared understanding, but it does not guarantee one.
 
 So people keep inventing external representations. Flowcharts carry sequences and branches; tables carry objects and attributes; state machines carry state transitions; architecture diagrams carry modules and connections. Their real purpose is to externalize structures previously implicit in people's minds, allowing multiple actors to observe and modify the same object together.
 
@@ -20,9 +20,9 @@ So the question worth asking may not be just how much context agents should pass
 
 ---
 
-This is why I propose the concept of Cognitive IR.
+This is why I propose the concept of Cognitive IR (cognitive intermediate representation).
 
-IR, or intermediate representation, is already a well-established concept in compilers. Complex cognitive tasks have a similar need: often, what is missing is not text, but an intermediate layer that can carry structure explicitly.
+IR, or intermediate representation, is already a well-established concept in compilers. Complex cognitive tasks have a similar need: often, what is missing is not text, but an intermediate layer that represents structure explicitly.
 
 It might be a graph representing dependencies between objects, the propagation of changes, and conflicts. It might be a table comparing candidate solutions, constraints, and missing factors. It could also be a tree, a state machine, a set of constraints, an equation, or even a program.
 
@@ -70,15 +70,15 @@ This means enterprises are not entirely without digital representations. Rather,
 
 If these structures and states exist only in separate prompts, memory, Markdown, and business systems, so-called multi-agent collaboration can easily devolve into multiple actors repeatedly exchanging natural language, then each filling in the rest of the world for themselves.
 
-So **what agent collaboration really needs is not just shared context, but shared structures and states representing the real world.**
+So **what agent collaboration really needs is not just shared context, but shared representations of real-world structures and states.**
 
 Documents are, of course, still part of this world. But they should form a representation layer together with databases, object models, relationship graphs, states, rules, and Cognitive IR.
 
 Within that layer, Cognitive IR addresses how many kinds of structure can be expressed explicitly. When those structures are further connected to instances, real-time states, sensing, and computation, what we have is no longer merely a static cognitive map. It begins to approach a continuously running digital world.
 
-This is why I increasingly understand digital twins as a more mature form of representation: they not only describe reality but continuously reflect it, allowing different Decision Spaces to be built on that shared reality.
+This is why I increasingly understand digital twins as a more mature form of representation: they not only describe reality but continuously reflect it, allowing different decision spaces to be built on that shared reality.
 
-Different tasks then extract the local factors genuinely relevant to their own goals, forming their own Decision Spaces. Whether a particular DS is ultimately handled by an LLM, rules, a function, an optimizer, or a person is not the most important issue. What matters is that they do not each have to recreate a world of their own.
+Different tasks then extract the local factors genuinely relevant to their own goals, forming their own decision spaces. Whether a particular DS is ultimately handled by an LLM, rules, a function, an optimizer, or a person is not the most important issue. What matters is that they do not each have to recreate a world of their own.
 
 ---
 
@@ -86,7 +86,7 @@ When reading long texts, people make notes that only they can understand. When c
 
 A whiteboard provides a local shared representation; a paper map provides a static representation of a city. Systems such as Amap have begun to maintain a continuously updated digital city that can be queried and computed on.
 
-The digital world inside an enterprise needs a similar progression: from scattered local records in documents and systems, to structured Cognitive IR, and then to a business digital twin that continuously carries objects, relationships, states, rules, and changes.
+The digital world inside an enterprise needs a similar progression: from scattered local records in documents and systems, to structured Cognitive IR, and then to a business digital twin that maintains objects and relationships, tracks states and changes, and represents rules.
 
 Future agent collaboration should not primarily take the form of “I read your document, then tell you my understanding.” It should increasingly resemble this:
 

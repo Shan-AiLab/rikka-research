@@ -56,7 +56,7 @@
       "updatedAt": "2026-10-10",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/research/office-tools-representation-infrastructure.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/research/office-tools-representation-infrastructure.md",
-      "contentSha256": "dba6de1384a43959b10998e8aeb00b6d6a84982f6f5fd129887e37c117b6d20c"
+      "contentSha256": "adfe0bbd2a97cd7fe31a42e313d4f1fb55792a6ef34da1ed325707f171f2ee25"
     },
     {
       "id": "zh/shared-representation-computable-world",
@@ -120,10 +120,10 @@
       "file": "zh/cases/bom-product-definition.md",
       "websitePath": "/zh/cases/bom-product-definition/",
       "publishedAt": "2026-09-24",
-      "updatedAt": "2026-09-24",
+      "updatedAt": "2026-10-12",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/cases/bom-product-definition.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/cases/bom-product-definition.md",
-      "contentSha256": "32b7b499a3996e7dcfb3ca80edad6850395b048ab3e519211e7ab9482ec4e311"
+      "contentSha256": "cbda1e7b956c362d09e532404a8200d9894a57d764ca97f24f4dd45c3b72fa9d"
     },
     {
       "id": "zh/oa-approval-modeling",
@@ -161,10 +161,10 @@
       "file": "zh/digitalization/shared-business-map.md",
       "websitePath": "/zh/digitalization/shared-business-map/",
       "publishedAt": "2026-09-16",
-      "updatedAt": "2026-09-16",
+      "updatedAt": "2026-10-12",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/digitalization/shared-business-map.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/digitalization/shared-business-map.md",
-      "contentSha256": "ba589369ad07af75846065321487d21acdf0260e4d6171a33e90d9991e5862bb"
+      "contentSha256": "e397c799d68fa99a41533a8dfd8b8df530880f2f4bda6a85bb4372be6f29f274"
     },
     {
       "id": "zh/business-modeling",
@@ -246,13 +246,13 @@
       "updatedAt": "2026-10-10",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/digitalization/context-engineering-scratchpad-management.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/digitalization/context-engineering-scratchpad-management.md",
-      "contentSha256": "c278bddf8ee66bdbbf927ba29eea6f72953df8b03a0c1ce0722f823658ebc8ab"
+      "contentSha256": "84b92369f7735c6353713fbbcce410e5fd4a9122b95db9f73ae16a6f58d614ea"
     },
     {
       "id": "en/worldview",
       "language": "en",
-      "title": "Seeing the World as a Complex System | From Limited Representation to Decision and Action",
-      "description": "Starting from complex systems and limited representations, construct a local Decision Space around the current actor, goal, and situation, and revise understanding through action and feedback.",
+      "title": "Seeing the world as a complex system | From limited representation to decision and action",
+      "description": "Starting from complex systems and limited representations, construct a local decision space around the current actor, goal, and situation, and revise understanding through action and feedback.",
       "igPath": "path0003",
       "file": "en/research/worldview.md",
       "websitePath": "/en/research/worldview/",
@@ -260,12 +260,12 @@
       "updatedAt": "2026-10-07",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/research/worldview.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/research/worldview.md",
-      "contentSha256": "605730edf936be289a9ba237adaf5a80f314eb647aae017b1e3443b168af1e8f"
+      "contentSha256": "fa25f2bfbd7693f63bd9672746478779ae8a5e0054d564667a688363fe33df82"
     },
     {
       "id": "en/agent-environment-co-modeling",
       "language": "en",
-      "title": "Agents and Environments Need to Be Modeled Together",
+      "title": "Agents and environments need to be modeled together",
       "description": "Start from interactions between actors and environments to judge which difficulties need stronger intelligence and which should be removed by reorganizing the environment.",
       "igPath": "path0004",
       "file": "en/research/agent-environment-co-modeling.md",
@@ -274,12 +274,26 @@
       "updatedAt": "2026-10-07",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/research/agent-environment-co-modeling.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/research/agent-environment-co-modeling.md",
-      "contentSha256": "facb45d328c1fad8410f31be02a1884a9eaee152bebb9215ffcb3d23684576c6"
+      "contentSha256": "2c9e37622c2c40b5849ccfdd7dac10fa913f4ba9dbea6bb5bc2fcc3678eb641d"
+    },
+    {
+      "id": "en/representation",
+      "language": "en",
+      "title": "Representation | What AI can understand depends on how the world is represented",
+      "description": "What AI can understand and operate on depends not only on model capability, but also on how reality is represented.",
+      "igPath": "path0001",
+      "file": "en/research/representation.md",
+      "websitePath": "/en/research/representation/",
+      "publishedAt": "2026-09-23",
+      "updatedAt": "2026-09-23",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/research/representation.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/research/representation.md",
+      "contentSha256": "66da7dff6191cb7d585b9d2988ea540a577fab251812e0549b06fde24f26e97f"
     },
     {
       "id": "en/office-tools-representation-infrastructure",
       "language": "en",
-      "title": "Word, Excel, PowerPoint: Overlooked Infrastructure",
+      "title": "Word, Excel, PowerPoint: Overlooked infrastructure",
       "description": "Documents, spreadsheets, and spatial canvases carry different forms of shared representation. The next generation of infrastructure must enable people and intelligent systems to jointly understand, maintain, and operate these structures.",
       "file": "en/research/office-tools-representation-infrastructure.md",
       "websitePath": "/en/research/office-tools-representation-infrastructure/",
@@ -287,12 +301,12 @@
       "updatedAt": "2026-10-10",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/research/office-tools-representation-infrastructure.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/research/office-tools-representation-infrastructure.md",
-      "contentSha256": "e4f632b7fb47828caf6422cf5a2058a124a83f1fbf3b08b4d43533880f3cd20c"
+      "contentSha256": "26e3651e3bc16ae42f1bd4c21eb0ca1f33ace8b3e8ac99be3bb2f37aa4b4aa63"
     },
     {
       "id": "en/shared-representation-computable-world",
       "language": "en",
-      "title": "From Shared Representation to a Computable World | From Whiteboards and Cognitive IR to Digital Twins: How Information Moves from Being Understood to Enabling Action",
+      "title": "From shared representation to a computable world | From whiteboards and Cognitive IR to digital twins: How information moves from being understood to enabling action",
       "description": "From whiteboards and Cognitive IR to business digital twins, explore how multiple actors can jointly observe, modify, and operate on the same continuously updated, computable world.",
       "igPath": "path0002",
       "file": "en/research/shared-representation-computable-world.md",
@@ -301,12 +315,12 @@
       "updatedAt": "2026-10-08",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/research/shared-representation-computable-world.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/research/shared-representation-computable-world.md",
-      "contentSha256": "e385d90071b2f506291441affee266f37975607fd5d1a2c240cc92aadb660404"
+      "contentSha256": "b3112b5c78c7491917fae8b2978cfe47ee908bb635041efcf30adbb91fa1e590"
     },
     {
       "id": "en/cognito-atlas",
       "language": "en",
-      "title": "Cognito Atlas | Building a Shared Map for Complex Business",
+      "title": "Cognito Atlas | Building a shared cognitive map of complex reality",
       "description": "A stable representation of complex environments that forms a reusable cognitive base map.",
       "igPath": "path0006",
       "file": "en/research/cognito-atlas.md",
@@ -315,20 +329,47 @@
       "updatedAt": "2026-09-21",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/research/cognito-atlas.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/research/cognito-atlas.md",
-      "contentSha256": "cf6c33d2545cb1a55c729bc160d12d65f678270972e0ffb1746aefa7c81edfd3"
+      "contentSha256": "43f91a52de3253f1a85ffdbaf4ec4f8ab599420acd8b34be7b18f896479114de"
     },
     {
       "id": "en/decision-space",
       "language": "en",
-      "title": "Decision Space | Making Complex Judgment Inspectable",
-      "description": "How to narrow the problem space around a scenario and goal, then progressively converge on viable paths.",
+      "title": "Decision Space | Structuring complex problems to converge on feasible solutions",
+      "description": "How to narrow the problem space around a scenario and goal, then progressively narrow down the feasible paths.",
       "file": "en/research/decision-space.md",
       "websitePath": "/en/research/decision-space/",
       "publishedAt": "2026-09-21",
       "updatedAt": "2026-09-21",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/research/decision-space.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/research/decision-space.md",
-      "contentSha256": "e4f917caf27c83e19bab1ce2b02ea0c6f8ebe2bcc626222eca6a9ba21d56447f"
+      "contentSha256": "6f9f4afca80fda42b3fef31241c58cbe1f3f1de4301c5af95a4ee0fd3247911e"
+    },
+    {
+      "id": "en/bom-product-definition",
+      "language": "en",
+      "title": "Why did automating BOM generation from drawings first require redefining the product?",
+      "description": "Look beyond drawing recognition to clarify the product definitions and configuration relationships needed to generate a usable bill of materials (BOM), and identify which decisions require human confirmation.",
+      "file": "en/cases/bom-product-definition.md",
+      "websitePath": "/en/cases/bom-product-definition/",
+      "publishedAt": "2026-09-24",
+      "updatedAt": "2026-10-12",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/cases/bom-product-definition.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/cases/bom-product-definition.md",
+      "contentSha256": "9b31490d8a208fad15d3700a0d96350359f925a2460259e4693a443125453264"
+    },
+    {
+      "id": "en/digitalization-governance-capacity",
+      "language": "en",
+      "title": "The essence of digitalization is improving the governance capacity of complex systems",
+      "description": "Digitalization changes more than efficiency: it expands the range and complexity of situations an organization can perceive, understand, and govern.",
+      "igPath": "path0009",
+      "file": "en/digitalization/digitalization-governance-capacity.md",
+      "websitePath": "/en/digitalization/digitalization-governance-capacity/",
+      "publishedAt": "2026-09-23",
+      "updatedAt": "2026-09-23",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/digitalization-governance-capacity.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/digitalization-governance-capacity.md",
+      "contentSha256": "3ce2020097ede798e2909721d672133827ac7a086b6b669319dc451b03c630c0"
     },
     {
       "id": "en/shared-business-map",
@@ -339,15 +380,15 @@
       "file": "en/digitalization/shared-business-map.md",
       "websitePath": "/en/digitalization/shared-business-map/",
       "publishedAt": "2026-09-16",
-      "updatedAt": "2026-09-16",
+      "updatedAt": "2026-10-12",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/shared-business-map.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/shared-business-map.md",
-      "contentSha256": "ba3002cf9cb4f5da794e8c8ef7e85f76053c643a1ed2ba77155eecbf446ac966"
+      "contentSha256": "0524ad62568fa8783708f3d5c6dba2f56551f8a34969c3aaaa87a6d1212d7ed6"
     },
     {
       "id": "en/business-modeling",
       "language": "en",
-      "title": "Business Modeling Is Fundamentally About Defining How Business Is Represented",
+      "title": "Business Modeling is fundamentally about defining how business is represented",
       "description": "Modeling is not simply drawing existing workflows. It decides which distinctions in reality enter the Digital World and what structures give them form.",
       "igPath": "path0007",
       "file": "en/digitalization/business-modeling.md",
@@ -356,12 +397,53 @@
       "updatedAt": "2026-09-24",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/business-modeling.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/business-modeling.md",
-      "contentSha256": "691723f496976f302ee46030def0a3822e97c193bd3562233007fa415b8d4036"
+      "contentSha256": "af3f2863c2df55cfa2335586387f8562bac963f9d226196d871778c2edfa9f12"
+    },
+    {
+      "id": "en/agent-project-progress-from-messages",
+      "language": "en",
+      "title": "Can an agent understand project progress simply by reading every group chat?",
+      "description": "Group chats provide a stream of signals, but project progress depends on a stable representation of business objects, states, relationships, and change.",
+      "igPath": "path0012",
+      "file": "en/digitalization/agent-project-progress-from-messages.md",
+      "websitePath": "/en/digitalization/agent-project-progress-from-messages/",
+      "publishedAt": "2026-09-24",
+      "updatedAt": "2026-09-24",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/agent-project-progress-from-messages.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/agent-project-progress-from-messages.md",
+      "contentSha256": "8bb5a984e52c81329b1cc0106920a9bdfa8868bd49887ccd0d9b57a02092db90"
+    },
+    {
+      "id": "en/enterprise-ai-starts-with-business",
+      "language": "en",
+      "title": "Why enterprise AI must start with the business: Business → organization → systems → agents",
+      "description": "What an agent can do depends on whether the business is clearly defined, responsibilities are explicit, and systems reliably represent and maintain those structures. Enterprise AI can start within a limited scope, but it cannot skip these prerequisites.",
+      "igPath": "path0010",
+      "file": "en/digitalization/enterprise-ai-starts-with-business.md",
+      "websitePath": "/en/digitalization/enterprise-ai-starts-with-business/",
+      "publishedAt": "2026-09-23",
+      "updatedAt": "2026-09-23",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/enterprise-ai-starts-with-business.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/enterprise-ai-starts-with-business.md",
+      "contentSha256": "3be26a14234cfdc4fae154adb7a81c887738116df5558d5c6350627eed551d8c"
+    },
+    {
+      "id": "en/harness-in-digitalization",
+      "language": "en",
+      "title": "Understanding agent harnesses in the context of digitalization",
+      "description": "Actors maintain their own cognition, environments maintain shared reality, and the harness provides a stable interface for perception, understanding, and action between them.",
+      "file": "en/digitalization/harness-in-digitalization.md",
+      "websitePath": "/en/digitalization/harness-in-digitalization/",
+      "publishedAt": "2026-09-23",
+      "updatedAt": "2026-09-23",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/harness-in-digitalization.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/harness-in-digitalization.md",
+      "contentSha256": "3fcc908e0b89a7406cd1408eb6f2aaa8415fdd5684334ad21d82c79fbb8db713"
     },
     {
       "id": "en/context-engineering-scratchpad-management",
       "language": "en",
-      "title": "Context Engineering: An Exercise in Scratch-Paper Management",
+      "title": "Context engineering: Managing AI’s scratch paper",
       "description": "Scratch paper provides external working memory; business objects and shared state need to be maintained by the environment. How much memory an agent needs also depends on what its Digital World already holds.",
       "file": "en/digitalization/context-engineering-scratchpad-management.md",
       "websitePath": "/en/digitalization/context-engineering-scratchpad-management/",
@@ -369,7 +451,7 @@
       "updatedAt": "2026-10-10",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/context-engineering-scratchpad-management.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/context-engineering-scratchpad-management.md",
-      "contentSha256": "526178345ef041754d3f025b9dcf00c2403fce85197401dead284c627f5a7c49"
+      "contentSha256": "912955dd72e5fc7482136984d7e927ceb64a12bc7481704860ab17f447ae8053"
     }
   ]
 }

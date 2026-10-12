@@ -2,7 +2,7 @@ The world in which we live and act can be understood as a continuously changing 
 
 Humans, other carbon-based organisms, and the silicon-based intelligence now entering the real world are all intelligent actors within it. Each actor needs to perceive its environment, assess situations, and act with limited information, capabilities, and resources in order to survive, achieve its goals, and secure room for further development.
 
-Yet no actor can access and process the world in its entirety. **How to confront an almost unlimited reality with limited cognition and turn that understanding into effective action is a fundamental problem shared by all intelligent actors.**
+Yet no actor can access and process the world in its entirety. **How to make sense of an almost unlimited reality with limited cognitive capacity and turn that understanding into effective action is a fundamental problem shared by all intelligent actors.**
 
 I currently describe this process in terms of four interconnected parts:
 
@@ -10,11 +10,11 @@ I currently describe this process in terms of four interconnected parts:
 
 Action, in turn, changes the world. Those changes enter our understanding again, forming a continuous feedback loop.
 
-## I. The world is a complex system
+## I. the world is a complex system
 
 By “world,” I do not mean a single system with a fixed boundary that contains everything.
 
-Reality can be divided into many overlapping complex systems according to the questions and scope of attention involved. A person's life, a family, an enterprise, an industry chain, a city, or an ecosystem can each become the “world” we observe and act within. **A system's boundary depends on what we are focusing on and which interactions between its elements matter to the current problem.**
+Reality can be divided into many overlapping complex systems according to the questions and scope of attention involved. A person's life, a family, an enterprise, an industry value chain, a city, or an ecosystem can each become the “world” we observe and act within. **A system's boundary depends on what we are focusing on and which interactions between its elements matter to the current problem.**
 
 The “world” here is therefore not limited to the physical world. Organizations, markets, software systems, and games can all constitute worlds that actors inhabit and need to understand and act within. They may contain physical objects, but also roles, rules, relationships, goals, information, and institutions and concepts established collectively by different actors.
 
@@ -30,11 +30,11 @@ The same order represents a commitment to the customer, work to be completed for
 
 Therefore, **understanding complex reality is not just knowing “what happened.” It also requires knowing which objects exist, how they relate and change, and from which perspective and at what resolution we are observing them.**
 
-## II. To understand and collaborate, we form representations of the world
+## II. to understand and collaborate, we form representations of the world
 
 The real world is too complex for any actor to access and process in full. What we can actually remember, discuss, compare, calculate, and manipulate is always a **representation** formed by selecting and transforming reality in some way.
 
-A map is not a city, an organization chart is not an organization, and an order in an ERP system is not the real-world transaction itself. Each selectively preserves certain distinctions, relationships, and states within reality.
+A map is not a city, an organization chart is not an organization, and an order in an enterprise resource planning (ERP) system is not the real-world transaction itself. Each selectively preserves certain distinctions, relationships, and states within reality.
 
 Therefore, **every representation is lossy.**
 
@@ -52,9 +52,9 @@ This is why representation concerns not only how individuals understand the worl
 
 I explore why representations are necessarily lossy, how perspective and resolution affect the world we see, and how structured data, natural language, graphs, trees, state machines, constraints, and other forms can jointly represent reality in a separate article:
 
-[**Representation | What AI Can Understand Depends on How the World Is Represented**](https://rikkalab.com/en/research/representation/)
+[**Representation | What AI can understand depends on how the world is represented**](https://rikkalab.com/en/research/representation/)
 
-## III. Action needs the part relevant to the current problem, not the whole world
+## III. action needs the part relevant to the current problem, not the whole world
 
 Even if we already have a sufficiently good map of the world, each action does not require us to process everything on that map.
 
@@ -70,7 +70,7 @@ We therefore do not need to build a new world model for every problem. A more re
 
 **On top of a relatively stable representation of the world, dynamically select the local part relevant to this judgment according to the current actor, goal, and situation.**
 
-I call this local part a **Decision Space**.
+I call this local part a **decision space**.
 
 It contains the current goal, relevant facts, factors that influence judgment, constraints, possible actions, different paths and their outcomes, and the actor's way of evaluating those outcomes.
 
@@ -78,31 +78,31 @@ In this way, an almost unlimited real-world problem can gradually be reduced to 
 
 I explore how to construct such a local problem space and progressively converge by gathering information, applying constraints, and comparing paths here:
 
-[**Decision Space | Turning Complex Problems into Decision Spaces That Can Converge and Be Solved**](https://rikkalab.com/en/research/decision-space/)
+[**Decision Space | Structuring complex problems to converge on feasible solutions**](https://rikkalab.com/en/research/decision-space/)
 
 Before Decision Space, however, there is another question: **how should the reusable “map” itself be organized?**
 
 I discuss the relatively stable organization of objects, relationships, states, and different perspectives further in **Cognito Atlas**:
 
-[**Cognito Atlas | Building a Shared Cognitive Map of Complex Reality**](https://rikkalab.com/en/research/cognito-atlas/)
+[**Cognito Atlas | Building a shared cognitive map of complex reality**](https://rikkalab.com/en/research/cognito-atlas/)
 
 A rough way to understand the relationship is:
 
 **Atlas provides the map; for a particular action, Decision Space selects from that map the local part that needs to be addressed now.**
 
-## IV. Action changes the world, and feedback revises our representations
+## IV. action changes the world, and feedback revises our representations
 
 Decisions ultimately need to become actions, and actions change the world again.
 
 Return to the trip to the airport.
 
-Once the person starts along the chosen route, their location changes. If congestion suddenly appears ahead, the environment changes too. If they miss a subway train, a previously feasible path may no longer be available. These changes feed back into the map, and the current Decision Space changes with them. The original judgment may remain valid, or it may need to be recalculated and a different option chosen.
+Once the person starts along the chosen route, their location changes. If congestion suddenly appears ahead, the environment changes too. If they miss a subway train, a previously feasible path may no longer be available. These changes feed back into the map, and the current decision space changes with them. The original judgment may remain valid, or it may need to be recalculated and a different option chosen.
 
 The same applies to other actions in reality.
 
 A purchase changes inventory and cash balances; an organizational adjustment changes relationships of responsibility; a conversation may change participants' understanding and commitments. The world after an action is no longer the same as the world before it.
 
-The new state of the world needs to be perceived and expressed again, updating our existing representations. New information may then change the current Decision Space, triggering another round of judgment and action.
+The new state of the world needs to be perceived and expressed again, updating our existing representations. New information may then change the current decision space, triggering another round of judgment and action.
 
 This is therefore not a one-way sequence, but a continuously operating loop:
 
@@ -112,13 +112,13 @@ We can never obtain a complete, static, and absolutely correct world model.
 
 What truly matters is **whether we can preserve the structure needed for current action, keep revising it as the world changes, and base new judgments on updated understanding.**
 
-## V. Building further on this foundational structure
+## V. building further on this foundational structure
 
 This structure is not specific to AI, nor is it specific to enterprises.
 
 This loop leads to a further judgment: **agents and their environments need to be modeled together.** What information an actor can obtain, what judgments it can form, and what actions it can take depend on its own capabilities, as well as on the structure and rules of its environment. Actions, in turn, change the environment and shape the conditions for the next round of judgment. Understanding and designing intelligent systems therefore requires describing the actor, the environment, and the relationships of perception, action, and feedback between them.
 
-This also means that we can improve an intelligent system’s practical performance by working on both the actor’s capabilities and its environmental conditions. Improving how information is organized, making rules clearer, and providing timely feedback on the results of actions can all change how difficult it is for an actor to complete a task. I explore how modeling them together can help us identify where a problem lies and which part to improve in [“Agents and Environments Need to Be Modeled Together”](https://rikkalab.com/en/research/agent-environment-co-modeling/).
+This also means that we can improve an intelligent system’s practical performance by working on both the actor’s capabilities and its environmental conditions. Improving how information is organized, making rules clearer, and providing timely feedback on the results of actions can all change how difficult it is for an actor to complete a task. I explore how modeling them together can help us identify where a problem lies and which part to improve in [“Agents and environments need to be modeled together”](https://rikkalab.com/en/research/agent-environment-co-modeling/).
 
 On this foundation, I am currently pursuing several directions:
 

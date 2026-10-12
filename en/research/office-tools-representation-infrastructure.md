@@ -1,6 +1,6 @@
-An enterprise can operate without ERP, CRM, or even a dedicated project management system, but it is hard to imagine one that never uses Word, Excel, or PowerPoint. Even in the AI era, generating documents, spreadsheets, and slides remains a core capability repeatedly demonstrated by AI office products.
+An enterprise can operate without enterprise resource planning (ERP), customer relationship management (CRM), or even a dedicated project management system, but it is hard to imagine one that never uses Word, Excel, or PowerPoint. Even in the AI era, generating documents, spreadsheets, and slides remains a core capability repeatedly demonstrated by AI productivity tools.
 
-It is time to reconsider: **What problem does this office trio solve that gives it such widespread and lasting relevance?**
+It is time to reconsider: **What problems do these three office tools solve that give them such widespread and lasting relevance?**
 
 ## Three basic forms of representation infrastructure
 
@@ -16,7 +16,7 @@ These forms are not mutually exclusive, nor does all information have to fit int
 
 **Human thinking and collaboration have never relied on natural language alone.**
 
-## Why can they become infrastructure?
+## What makes them infrastructure?
 
 As soon as a problem at work becomes even slightly complex, people naturally open a document, make a table, or draw boxes and arrows. Information and structures previously held in an individual’s mind become external objects that others can view, modify, and discuss.
 
@@ -30,11 +30,11 @@ When an arrow connects two boxes in PowerPoint, a person may understand it as a 
 
 This information is not unstructured. Rather, it lacks explicit semantics and constraints, making it difficult to use directly in business computation.
 
-Traditional software development has always required substantial manual interpretation and conversion between requirements documents, system design, and implementation. The objects, relationships, and rules in documents cannot directly become executable system definitions. AI can participate in this process, but it still faces the same ambiguities and missing structures.
+Traditional software development has always required substantial manual interpretation and conversion between requirements documents, system design, and implementation. As written, the objects, relationships, and rules in these documents cannot be used directly as executable system definitions. AI can participate in this process, but it still faces the same ambiguities and missing structures.
 
-This is the problem Cognitive IR addresses: enabling different forms of representation—text, tables, graphs, trees, state machines, rules, and programs—to retain their expressive strengths while carrying more explicit structures that subsequent actors can continue to use.
+This is the problem Cognitive IR (cognitive intermediate representation) addresses: enabling different forms of representation—text, tables, graphs, trees, state machines, rules, and programs—to retain their expressive strengths while carrying more explicit structures that subsequent actors can continue to use.
 
-When these structures are connected to real objects, instances, current states, and ongoing feedback, they may develop from static information carriers into computable, operable digital environments.
+When these structures are connected to real objects, instances, current states, and ongoing feedback, they may develop from static information carriers into digital environments that support computation and action.
 
 ## The next generation of representation infrastructure
 
@@ -46,6 +46,6 @@ The goal of the next generation of representation infrastructure is not to repla
 
 Related reading:
 
-[Representation | What AI Can Understand Depends on How the World Is Represented](https://rikkalab.vercel.app/en/research/representation/)
+[Representation | What AI can understand depends on how the world is represented](https://rikkalab.com/en/research/representation/)
 
-[From Shared Representation to a Computable World](https://rikkalab.vercel.app/en/research/shared-representation-computable-world/)
+[From shared representation to a computable world](https://rikkalab.com/en/research/shared-representation-computable-world/)
