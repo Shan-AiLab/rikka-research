@@ -26,7 +26,7 @@ Suppose a batch of components is now expected on Thursday rather than Monday. If
 
 Only when the delay is linked to a specific procurement item and, through material requirements, to production tasks and customer orders can the system identify which plans need review. Whether delivery remains feasible also depends on available inventory, substitution options, and remaining production capacity. Uncertainties should be retained as information gaps for the appropriate people to confirm.
 
-Both changes to instance states and changes to business definitions need to be reflected in the digital twin. One concerns instance states, such as a delayed batch or a completed task. The other concerns business definitions, such as revised substitution rules or reassigned approval authority. The first updates what is happening now; the second changes how future judgments and operations work.
+Two kinds of change need to be maintained in the digital twin: changes to instance states, such as a delayed batch or a completed task, and changes to business definitions, such as revised substitution rules or reassigned approval authority. The first updates what is happening now; the second changes how future judgments and operations work.
 
 The mappings should also retain their sources and timestamps. “The supplier promises arrival on Thursday” and “The warehouse confirms receipt” have different meanings and different evidential bases. Making these distinctions explicit lets participants know which conclusions can be used directly and which still need verification.
 
