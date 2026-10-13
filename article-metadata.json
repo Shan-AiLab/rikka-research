@@ -18,6 +18,20 @@
       "contentSha256": "c12c84800325c1b466cd780d30a0058551d64748a1d315f4b08ab2b114a3a1b8"
     },
     {
+      "id": "zh/intelligent-systems-niches-agent-networks",
+      "language": "zh",
+      "title": "智能系统、生态位与 Agent 网络",
+      "description": "从智能系统的功能边界与生态位出发，讨论 Harness、环境改造、协作网络与自我改进。",
+      "igPath": "path0013",
+      "file": "zh/research/intelligent-systems-niches-agent-networks.md",
+      "websitePath": "/zh/research/intelligent-systems-niches-agent-networks/",
+      "publishedAt": "2026-10-13",
+      "updatedAt": "2026-10-13",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/research/intelligent-systems-niches-agent-networks.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/research/intelligent-systems-niches-agent-networks.md",
+      "contentSha256": "24d23fe6645f28290cf3c0423391bb20cb06fcc3eed586eb8c337fde39a69737"
+    },
+    {
       "id": "zh/agent-environment-co-modeling",
       "language": "zh",
       "title": "智能体与环境需要共同建模",
@@ -261,6 +275,20 @@
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/research/worldview.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/research/worldview.md",
       "contentSha256": "fa25f2bfbd7693f63bd9672746478779ae8a5e0054d564667a688363fe33df82"
+    },
+    {
+      "id": "en/intelligent-systems-niches-agent-networks",
+      "language": "en",
+      "title": "Intelligent systems, ecological niches, and agent networks",
+      "description": "Starting from functional boundaries and ecological niches, explore harnesses, changes to environments, collaborative networks, and self-improvement.",
+      "igPath": "path0013",
+      "file": "en/research/intelligent-systems-niches-agent-networks.md",
+      "websitePath": "/en/research/intelligent-systems-niches-agent-networks/",
+      "publishedAt": "2026-10-13",
+      "updatedAt": "2026-10-13",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/research/intelligent-systems-niches-agent-networks.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/research/intelligent-systems-niches-agent-networks.md",
+      "contentSha256": "231f7db575d60d6c063849075051949bcf92e59bf907be43ecff904bb9ae42f2"
     },
     {
       "id": "en/agent-environment-co-modeling",

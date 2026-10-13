@@ -42,6 +42,8 @@
 | 业务数字孪生 | business digital twin | 首次说明所映射的业务对象、状态及持续更新关系。 |
 | 企业 OS／产业 OS | Enterprise OS / Industry OS | 命名概念保留；Industry OS 指跨企业范围，不是工业控制操作系统。 |
 | 草稿纸／工作记忆 | scratch paper / working memory | 保留实体草稿纸比喻，不必改成 scratchpad。工作记忆可由 Context、临时变量、任务笔记及外部存储实现，不等于环境表征。 |
+| 生态位 | ecological niche / niche | 指系统在环境中的功能、资源依赖、对象关系和约束；首次用 ecological niche，随后可简化为 niche，不等同于行业或岗位。 |
+| 递归自我改进 | recursive self-improvement (RSI) | 首次展开缩写，正文小写，RSI 保留大写。 |
 | 专项共建 | focused collaborative development | 包括原型、MVP、试点以及正式建设，不缩窄为 pilot projects。 |
 | OA／ERP／BOM／POI／FDE | office automation / enterprise resource planning / bill of materials / point of interest / forward-deployed engineering | 每篇独立入口按需首次展开；复数用 points of interest (POIs)。 |
 
