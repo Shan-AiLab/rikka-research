@@ -153,6 +153,19 @@
       "contentSha256": "64467f9e64844336f71609e3128bf33ae990e76972f23e899495a3454f18d18e"
     },
     {
+      "id": "zh/business-digital-twin",
+      "language": "zh",
+      "title": "企业数字化的终局，是业务的数字孪生",
+      "description": "持续映射业务对象、状态、规则与关系，让人和智能体在同一个数字环境中接续工作。",
+      "file": "zh/digitalization/business-digital-twin.md",
+      "websitePath": "/zh/digitalization/business-digital-twin/",
+      "publishedAt": "2026-10-13",
+      "updatedAt": "2026-10-13",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/digitalization/business-digital-twin.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/digitalization/business-digital-twin.md",
+      "contentSha256": "366b0fa2c6d6e5d3380a4bc17c7f2466fd3aa2cff3fccbfc14974294d2a022bb"
+    },
+    {
       "id": "zh/digitalization-governance-capacity",
       "language": "zh",
       "title": "数字化的本质，是提升复杂系统的治理能力",
@@ -384,6 +397,19 @@
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/cases/bom-product-definition.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/cases/bom-product-definition.md",
       "contentSha256": "9b31490d8a208fad15d3700a0d96350359f925a2460259e4693a443125453264"
+    },
+    {
+      "id": "en/business-digital-twin",
+      "language": "en",
+      "title": "The ultimate outcome of enterprise digitalization is a business digital twin",
+      "description": "Continuously map business objects, states, rules, and relationships so people and agents can continue one another’s work in a shared digital environment.",
+      "file": "en/digitalization/business-digital-twin.md",
+      "websitePath": "/en/digitalization/business-digital-twin/",
+      "publishedAt": "2026-10-13",
+      "updatedAt": "2026-10-13",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/business-digital-twin.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/business-digital-twin.md",
+      "contentSha256": "2f5d6f011b0495ac099e9b3198663314520a155f9839df1849594ff69db78465"
     },
     {
       "id": "en/digitalization-governance-capacity",
