@@ -6,7 +6,7 @@ Not all this information is missing from systems. Purchase orders, goods receipt
 
 Each system keeps some records, while the full operating logic is distributed across people’s experience, communication, and temporary spreadsheets. Whenever a problem arises, people must organize these pieces again. If we gradually make the relationships explicit and keep them aligned with actual business, what form will digitalization take?
 
-**I believe the ultimate outcome of enterprise digitalization is a business digital twin: a digital environment where people and AI agents work together.** “Ultimate outcome” here describes a direction for development. The Digital World progressively represents how the business operates, allowing participants to continue one another’s work and keep changing reality through action.
+**I believe enterprise digitalization should ultimately create a business digital twin: a digital environment where people and AI agents work together.** This is a direction for development: a digital world that progressively supports how the business operates. Participants can continue one another’s work within it and keep changing reality through action.
 
 ## 02 | What needs a twin is how the business operates
 
@@ -26,9 +26,9 @@ Suppose a batch of components is now expected on Thursday rather than Monday. If
 
 Only when the delay is linked to a specific procurement item and, through material requirements, to production tasks and customer orders can the system identify which plans need review. Whether delivery remains feasible also depends on available inventory, substitution options, and remaining production capacity. Uncertainties should be retained as information gaps for the appropriate people to confirm.
 
-Two kinds of change need to be maintained together. One concerns instance states, such as a delayed batch or a completed task. The other concerns business definitions, such as revised substitution rules or reassigned approval authority. The first updates what is happening now; the second changes how future judgments and operations work.
+Both changes to instance states and changes to business definitions need to be reflected in the digital twin. One concerns instance states, such as a delayed batch or a completed task. The other concerns business definitions, such as revised substitution rules or reassigned approval authority. The first updates what is happening now; the second changes how future judgments and operations work.
 
-The mappings should also retain their sources and timestamps. “The supplier promises arrival on Thursday” and “The warehouse confirms receipt” have different meanings and different grounds for trust. Making these distinctions explicit lets participants know which conclusions can be used directly and which still need verification.
+The mappings should also retain their sources and timestamps. “The supplier promises arrival on Thursday” and “The warehouse confirms receipt” have different meanings and different evidential bases. Making these distinctions explicit lets participants know which conclusions can be used directly and which still need verification.
 
 ## 04 | People and agents work in the same Digital World
 
@@ -38,7 +38,7 @@ Faced with a component delay, an agent can mark affected production tasks on the
 
 People and agents can use different interfaces. People understand the situation through object pages, tables, or conversations; agents participate through structured queries and action interfaces. Both refer to the same business facts, and the results of their operations enter the same continuously updated environment. At handoff, the next participant can directly find the objects being handled, the judgments already formed, and unfinished work.
 
-Whether the components actually arrive, whether the shop floor starts work in the revised sequence, and whether actual labor time matches the estimate must also feed back into the digital representation as a basis for the next judgment. **Observation, simulation, action, and feedback thus revolve around the same business representation, and the digital twin becomes a working environment for actual organizational operations.**
+Whether the components actually arrive, whether the shop floor starts work in the revised sequence, and whether actual labor time matches the estimate must also feed back into the digital representation as a basis for the next judgment. **Observation, what-if analysis, action, and feedback thus revolve around the same business representation, and the digital twin becomes a working environment for actual organizational operations.**
 
 Which work people perform and which is assigned to agents or traditional systems can change with capabilities and business needs. The shared objects, rules, and results remain available over time.
 
@@ -46,9 +46,9 @@ Which work people perform and which is assigned to agents or traditional systems
 
 A business digital twin can span several systems. Enterprise resource planning (ERP) systems maintain procurement and inventory, production systems record execution, and project systems maintain delivery plans. The question is whether the same business activity remains connected across those software boundaries.
 
-If orders cannot be matched across three systems, and “procurement complete” means an order has been placed in one, goods have arrived in another, and payment has been made in the third, subsequent judgments may rest on different premises even when the interfaces are connected. Beyond connectivity, **business object identities, state meanings, responsibility for rules, and authority boundaries need to be aligned.**
+If orders cannot be matched across three systems, and “procurement complete” means an order has been placed in one, goods have arrived in another, and payment has been made in the third, subsequent judgments may rest on different premises even when the interfaces are connected. Beyond connectivity, **business object identities, state meanings, ownership of rule definitions and maintenance, and authority boundaries need to be aligned.**
 
-This is the role of a shared Business Atlas. It connects local structures scattered across applications and departments, allowing a change to be understood in its full set of business relationships. As the map’s structures are linked to instances, continuously updated states, and executable operations, a running digital twin gradually takes shape.
+This is the role of a shared Business Atlas. It connects local structures scattered across applications and departments, allowing a change to be understood in its full set of business relationships. As the map’s structures are linked to instances, continuously updated states, and executable operations, an operational digital twin gradually takes shape.
 
 Development can begin within a limited scope. For example, first connect the relationships from material requirements through procurement, production, and delivery for one category of orders. Actual operations then reveal missing relationships and rules, which can be addressed before expanding further.
 
@@ -56,4 +56,4 @@ Return to the original question: “Can this order be delivered on time?” Peop
 
 If every business change requires people to create a group chat, find spreadsheets, and ask around to reconstruct relationships between objects, key parts of business operations remain outside the systems, however many applications are in use. Adding an agent may merely introduce another participant busy piecing information together.
 
-**What enterprise digitalization truly needs to deliver is a Digital World in which the business can operate continuously and people and agents can continue one another’s work.**
+**What enterprise digitalization ultimately needs to deliver is a digital world that supports ongoing business operations and allows people and agents to pick up where others left off.**

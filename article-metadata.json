@@ -157,6 +157,7 @@
       "language": "zh",
       "title": "企业数字化的终局，是业务的数字孪生",
       "description": "持续映射业务对象、状态、规则与关系，让人和智能体在同一个数字环境中接续工作。",
+      "igPath": "path0014",
       "file": "zh/digitalization/business-digital-twin.md",
       "websitePath": "/zh/digitalization/business-digital-twin/",
       "publishedAt": "2026-10-13",
@@ -301,7 +302,7 @@
       "updatedAt": "2026-10-13",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/research/intelligent-systems-niches-agent-networks.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/research/intelligent-systems-niches-agent-networks.md",
-      "contentSha256": "231f7db575d60d6c063849075051949bcf92e59bf907be43ecff904bb9ae42f2"
+      "contentSha256": "bf9c9b21a6a970052f393b3a9fb0935993a286493d3c5b1daeaa58818d7808cb"
     },
     {
       "id": "en/agent-environment-co-modeling",
@@ -401,15 +402,16 @@
     {
       "id": "en/business-digital-twin",
       "language": "en",
-      "title": "The ultimate outcome of enterprise digitalization is a business digital twin",
+      "title": "Enterprise digitalization should ultimately create a business digital twin",
       "description": "Continuously map business objects, states, rules, and relationships so people and agents can continue one another’s work in a shared digital environment.",
+      "igPath": "path0014",
       "file": "en/digitalization/business-digital-twin.md",
       "websitePath": "/en/digitalization/business-digital-twin/",
       "publishedAt": "2026-10-13",
       "updatedAt": "2026-10-13",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/business-digital-twin.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/business-digital-twin.md",
-      "contentSha256": "2f5d6f011b0495ac099e9b3198663314520a155f9839df1849594ff69db78465"
+      "contentSha256": "d42bd9d727ff1c8cac780b56f7b0dc704d09974a34436b68ec1e19c25da5a608"
     },
     {
       "id": "en/digitalization-governance-capacity",
