@@ -209,6 +209,48 @@
       "contentSha256": "6095f59aa903434bc1f5801c26e02c80a44b959b35ce0cec6bcde975f2ca953f"
     },
     {
+      "id": "zh/why-business-still-relies-on-chat-and-excel",
+      "language": "zh",
+      "title": "系统已经这么多了，为什么还要靠群聊和共享Excel？",
+      "description": "系统已经覆盖了不少业务，但跨系统的业务逻辑仍靠人补齐。理解这些人工工作，才能判断哪些需要完善系统，哪些适合引入 Agent。",
+      "igPath": "path0020",
+      "file": "zh/digitalization/why-business-still-relies-on-chat-and-excel.md",
+      "websitePath": "/zh/digitalization/why-business-still-relies-on-chat-and-excel/",
+      "publishedAt": "2026-10-14",
+      "updatedAt": "2026-10-14",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/digitalization/why-business-still-relies-on-chat-and-excel.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/digitalization/why-business-still-relies-on-chat-and-excel.md",
+      "contentSha256": "5d8bcdff10f5453d1f68fb98d52d7e9c03c360491317ddf7995b1bc7026bfc7c"
+    },
+    {
+      "id": "zh/product-requirements-business-digital-twin-gap",
+      "language": "zh",
+      "title": "产品需求的本质，是业务与数字孪生之间的 Gap",
+      "description": "从流程、报表、操作优化和 Agent 需求出发，识别业务所需能力与现有数字孪生之间的缺口，明确建设范围，并回到业务运行中验证效果。",
+      "igPath": "path0021",
+      "file": "zh/digitalization/product-requirements-business-digital-twin-gap.md",
+      "websitePath": "/zh/digitalization/product-requirements-business-digital-twin-gap/",
+      "publishedAt": "2026-10-14",
+      "updatedAt": "2026-10-14",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/digitalization/product-requirements-business-digital-twin-gap.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/digitalization/product-requirements-business-digital-twin-gap.md",
+      "contentSha256": "6f966341f47eb7f472a9ecf02fa51f9a942f71812ab55ed90cdd5280d4cb4b1b"
+    },
+    {
+      "id": "zh/business-product-technical-architecture",
+      "language": "zh",
+      "title": "从业务、产品到代码，三张可互算架构图",
+      "description": "显式连接业务要求、产品能力与技术实现，让覆盖检查、需求识别和变更影响分析有共同依据，推动三方共同建设和维护数字孪生。",
+      "igPath": "path0017",
+      "file": "zh/digitalization/business-product-technical-architecture.md",
+      "websitePath": "/zh/digitalization/business-product-technical-architecture/",
+      "publishedAt": "2026-10-14",
+      "updatedAt": "2026-10-14",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/digitalization/business-product-technical-architecture.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/digitalization/business-product-technical-architecture.md",
+      "contentSha256": "50dde118a0a2fbf752757c230e42b0372216e7b4a9b97ead15ad0db9fb345bbe"
+    },
+    {
       "id": "zh/system-implementation-configuration-hell",
       "language": "zh",
       "title": "系统实施为什么变成了配置地狱",
@@ -251,6 +293,34 @@
       "contentSha256": "e652f80096d698ac43b6aacb9e02b776a69967444198637f47ff17fc94472e6a"
     },
     {
+      "id": "zh/what-it-means-for-ai-to-complete-tasks",
+      "language": "zh",
+      "title": "当我们说“让 AI 帮人完成任务”，到底在说什么？",
+      "description": "任务有自己的来源和目标。理解它为什么存在，才能判断应该加速、重构还是取消，以及 Agent 应该承担哪一段工作。",
+      "igPath": "path0018",
+      "file": "zh/digitalization/what-it-means-for-ai-to-complete-tasks.md",
+      "websitePath": "/zh/digitalization/what-it-means-for-ai-to-complete-tasks/",
+      "publishedAt": "2026-10-14",
+      "updatedAt": "2026-10-14",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/digitalization/what-it-means-for-ai-to-complete-tasks.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/digitalization/what-it-means-for-ai-to-complete-tasks.md",
+      "contentSha256": "6a1b27737d2e1ed8837ed57075739e7e137278eb8ec88147be932c9ddb2fdefe"
+    },
+    {
+      "id": "zh/where-tasks-come-from-agent-boundaries",
+      "language": "zh",
+      "title": "设计 Agent 之前，先弄清任务从哪里来",
+      "description": "从组织职能、业务要求与当前状态出发，识别具体任务，再依据职责和授权确定由谁承接。",
+      "igPath": "path0019",
+      "file": "zh/digitalization/where-tasks-come-from-agent-boundaries.md",
+      "websitePath": "/zh/digitalization/where-tasks-come-from-agent-boundaries/",
+      "publishedAt": "2026-10-14",
+      "updatedAt": "2026-10-14",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/digitalization/where-tasks-come-from-agent-boundaries.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/digitalization/where-tasks-come-from-agent-boundaries.md",
+      "contentSha256": "5c426ff673f80de67f24588f88e32e64b0574625a59a5eb1e5e7e28c979bff31"
+    },
+    {
       "id": "zh/enterprise-ai-starts-with-business",
       "language": "zh",
       "title": "企业 AI 落地为什么必须从业务开始：业务 → 组织 → 系统 → Agent",
@@ -267,16 +337,16 @@
     {
       "id": "zh/enterprise-agent-functional-division",
       "language": "zh",
-      "title": "设计企业 Agent，先从职能划分开始｜职能：连接业务需要与执行主体的中间层",
+      "title": "讨论哪里能用Agent之前，先重新理解职能和组织分工",
       "description": "从业务对象与职能出发，明确人、系统和 Agent 的分工边界。",
       "igPath": "path0016",
       "file": "zh/digitalization/enterprise-agent-functional-division.md",
       "websitePath": "/zh/digitalization/enterprise-agent-functional-division/",
       "publishedAt": "2026-10-13",
-      "updatedAt": "2026-10-13",
+      "updatedAt": "2026-10-14",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/digitalization/enterprise-agent-functional-division.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/digitalization/enterprise-agent-functional-division.md",
-      "contentSha256": "45e1a36a05b80dd0e4113b8a91b47db97837fbfd77c20650c64fa870609b879d"
+      "contentSha256": "f16ec1160d0e777df90f6b2d21a32eae7ca96d3841284675b33282493de61ee5"
     },
     {
       "id": "zh/harness-in-digitalization",
@@ -484,6 +554,48 @@
       "contentSha256": "af3f2863c2df55cfa2335586387f8562bac963f9d226196d871778c2edfa9f12"
     },
     {
+      "id": "en/why-business-still-relies-on-chat-and-excel",
+      "language": "en",
+      "title": "Why do businesses still rely on group chats and shared Excel files despite having so many systems?",
+      "description": "Systems already cover much of the business, but people still fill in the business logic across them. Understanding this manual work helps identify where systems need improvement and where agents are appropriate.",
+      "igPath": "path0020",
+      "file": "en/digitalization/why-business-still-relies-on-chat-and-excel.md",
+      "websitePath": "/en/digitalization/why-business-still-relies-on-chat-and-excel/",
+      "publishedAt": "2026-10-14",
+      "updatedAt": "2026-10-14",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/why-business-still-relies-on-chat-and-excel.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/why-business-still-relies-on-chat-and-excel.md",
+      "contentSha256": "f0d5c8de27d223cfe4fa3f3b46f15cc2a8a2c5f19fc6bee183733ff20bacca67"
+    },
+    {
+      "id": "en/product-requirements-business-digital-twin-gap",
+      "language": "en",
+      "title": "Product requirements define the gap between the business and its digital twin",
+      "description": "Identify the gaps between business needs and the existing digital twin behind requests for workflows, reports, usability improvements, and agents. Define the scope of development and verify its effects in actual business operations.",
+      "igPath": "path0021",
+      "file": "en/digitalization/product-requirements-business-digital-twin-gap.md",
+      "websitePath": "/en/digitalization/product-requirements-business-digital-twin-gap/",
+      "publishedAt": "2026-10-14",
+      "updatedAt": "2026-10-14",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/product-requirements-business-digital-twin-gap.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/product-requirements-business-digital-twin-gap.md",
+      "contentSha256": "269ab56b62f2df0ade7ca9cec8e76afbcc7f655e0a676fdbf4bd4bb433107ccd"
+    },
+    {
+      "id": "en/business-product-technical-architecture",
+      "language": "en",
+      "title": "From business to code: Reasoning across three architecture models",
+      "description": "Explicitly connect business requirements, product capabilities, and technical implementation to provide a shared basis for coverage checks, requirements analysis, and change impact analysis, supporting joint development and maintenance of the digital twin.",
+      "igPath": "path0017",
+      "file": "en/digitalization/business-product-technical-architecture.md",
+      "websitePath": "/en/digitalization/business-product-technical-architecture/",
+      "publishedAt": "2026-10-14",
+      "updatedAt": "2026-10-14",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/business-product-technical-architecture.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/business-product-technical-architecture.md",
+      "contentSha256": "35ae96b096c35a7939f601bbb9849f73c42fd93b0760f11802ba23fd9fb8434d"
+    },
+    {
       "id": "en/system-implementation-configuration-hell",
       "language": "en",
       "title": "Why has system implementation become configuration hell?",
@@ -512,6 +624,34 @@
       "contentSha256": "8bb5a984e52c81329b1cc0106920a9bdfa8868bd49887ccd0d9b57a02092db90"
     },
     {
+      "id": "en/what-it-means-for-ai-to-complete-tasks",
+      "language": "en",
+      "title": "What do we mean when we say “let AI help people complete tasks”?",
+      "description": "Tasks have their own origins and goals. Understanding why they exist provides a basis for deciding whether to accelerate, redesign, or eliminate them, and which part of the work an agent should undertake.",
+      "igPath": "path0018",
+      "file": "en/digitalization/what-it-means-for-ai-to-complete-tasks.md",
+      "websitePath": "/en/digitalization/what-it-means-for-ai-to-complete-tasks/",
+      "publishedAt": "2026-10-14",
+      "updatedAt": "2026-10-14",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/what-it-means-for-ai-to-complete-tasks.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/what-it-means-for-ai-to-complete-tasks.md",
+      "contentSha256": "805ab50af3759630f16b451c34790b0f083c4f2036313660302ae7e6ffe6e791"
+    },
+    {
+      "id": "en/where-tasks-come-from-agent-boundaries",
+      "language": "en",
+      "title": "Before designing an agent, understand where tasks come from",
+      "description": "Trace specific tasks to organizational functions, business requirements, and current states, then use responsibilities and authority to determine who can undertake them.",
+      "igPath": "path0019",
+      "file": "en/digitalization/where-tasks-come-from-agent-boundaries.md",
+      "websitePath": "/en/digitalization/where-tasks-come-from-agent-boundaries/",
+      "publishedAt": "2026-10-14",
+      "updatedAt": "2026-10-14",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/where-tasks-come-from-agent-boundaries.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/where-tasks-come-from-agent-boundaries.md",
+      "contentSha256": "9e6a7f1517ecbcd1e35c6269ff8ad941d6e73f4ca9945675e657d978ae2880db"
+    },
+    {
       "id": "en/enterprise-ai-starts-with-business",
       "language": "en",
       "title": "Why enterprise AI must start with the business: Business → organization → systems → agents",
@@ -528,16 +668,16 @@
     {
       "id": "en/enterprise-agent-functional-division",
       "language": "en",
-      "title": "Designing enterprise agents starts with defining business functions | Functions: The intermediate layer connecting business needs with the actors that carry them out",
+      "title": "Before discussing where to use agents, rethink business functions and the division of work in organizations",
       "description": "Start with business objects and functions to define the division of responsibilities between people, systems, and agents.",
       "igPath": "path0016",
       "file": "en/digitalization/enterprise-agent-functional-division.md",
       "websitePath": "/en/digitalization/enterprise-agent-functional-division/",
       "publishedAt": "2026-10-13",
-      "updatedAt": "2026-10-13",
+      "updatedAt": "2026-10-14",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/enterprise-agent-functional-division.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/enterprise-agent-functional-division.md",
-      "contentSha256": "efc86783ad7ee145014c09b40e1a7697677eb269c66f3137fa698212ecd06fd7"
+      "contentSha256": "836b4fd05934d9c32ffb2254cf574540152104dc03474c07868780bdd5f164c8"
     },
     {
       "id": "en/harness-in-digitalization",

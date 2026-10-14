@@ -48,7 +48,29 @@ Once objects are clear, responsibilities can be assigned precisely: who maintain
 
 Object modeling and function modeling therefore need to validate each other. Object boundaries help locate responsibilities precisely; ambiguities discovered while breaking down responsibilities can, in turn, reveal gaps in the business model.
 
-## 3. Separate the capability the business needs from who currently provides it
+## 3. Different functions around the same object imply different system capabilities
+
+For the same purchase order, procurement staff follow up on delivery dates and handle arrival exceptions, while the procurement manager focuses on overall supply risks, work assignments, and matters beyond delegated authority. They manage the same business object, but their responsibilities, information needs, and available actions differ.
+
+**Management authority and execution authority over the same object can be defined separately, then used to derive views, messages, permissions, and approvals.** One person may perform both kinds of function, but the system still needs to distinguish the scope and authority under which that person acts.
+
+| System capability | What execution functions focus on | What management functions focus on |
+| ---- | ---- | ---- |
+| List views | Purchase orders assigned to the person that require action | Summaries of orders, risks, and work distribution within the scope of responsibility |
+| Detail views | Delivery dates, arrival records, related requirements, and available actions needed for follow-up | The impact of exceptions, handling progress, and matters requiring intervention |
+| Notifications | What work the person needs to take up after an object changes | Situations exceeding handling time limits or delegated authority that require escalation |
+| Permissions | Which operations can be performed on which orders | The scope within which work can be assigned, adjusted, approved, or supervised |
+| Approvals | Which operations require a decision and what supporting information to submit | Which matters fall within the person's decision authority and what judgments are required |
+
+This separation does not require two independent systems. Order identities, facts, and histories can be shared, while different functions receive the views and available actions they need.
+
+Once responsibility scopes, object relationships, action permissions, and business rules are explicit, many configuration choices can be derived from them. Which orders a person should see, whom a delivery-date change should notify, whether an adjustment can be executed directly, and who should handle it when it exceeds authority can all be derived from these relationships. What can be derived here is the scope of information, available actions, notification recipients, and workflow conditions. Organizing these into specific pages and interactions still requires design for the context of use.
+
+For example, if a supplier postpones delivery, the system can first identify the procurement staff member handling the order, then identify the relevant responsible people through the affected projects. The matter enters the manager's work queue only when the agreed escalation conditions are met. Routine progress updates, tasks requiring execution, and matters requiring management decisions can thus be separated.
+
+**List views, detail views, notifications, permissions, and approvals express the same set of function and object relationships in different contexts of use.** Making these relationships explicit offers an opportunity to reduce repeated and inconsistent configuration across systems. People or agents taking on a function can likewise receive the corresponding information scope, action permissions, and collaboration interfaces.
+
+## 4. Separate the capability the business needs from who currently provides it
 
 Once a function can be described independently, its definition can be maintained separately from its assignment to departments, roles, and people.
 
@@ -62,14 +84,14 @@ Functions and their assignment can be maintained at two levels:
 
 | Level | What needs to be defined | Example |
 | ---- | ---- | ---- |
-| Function definition | Which objects it concerns, what function it continuously performs, and what results it produces | Responsibility for material procurement |
+| Function definition | Which objects it concerns, what function it continuously performs, and what results it produces | Material procurement |
 | Responsibility assignment | Who takes on the corresponding responsibility, and within what scope | The procurement department handles material procurement; Zhang San handles electronic components, and Li Si handles sheet-metal parts |
 
 Departments and roles can take on and combine these functions. People assume responsibilities through their appointments and specific allocations of business work. The scope must also be made concrete, from “responsible for a product line” to “responsible for this particular order.”
 
 Organizational changes then have an explicit place in the model. A personnel change adjusts the assignment; business expansion adjusts its scope; a change in working methods reorganizes the participants. A change in the business itself calls for revising the function definition.
 
-## 4. Make the division of work a business structure that can be checked
+## 5. Make the division of work a business structure that can be checked
 
 Bringing these relationships together allows the organization to be examined from two directions.
 
@@ -81,4 +103,4 @@ The division of work previously scattered across responsibility documents and pe
 
 Only on this foundation can we further discuss how responsibilities map to permissions, which judgments approval steps make, how specific tasks arise, and which work is suitable for agents.
 
-**The function model must first answer who needs to be responsible for what in this business. Clarifying this layer gives the organization a foundation for continuously adjusting its division of work and incorporating new actors to carry it out.**
+**A function model first specifies which objects the business needs to work with and what ongoing work is required, then uses responsibility assignments to specify who undertakes that work and within what scope.** Expressing these two layers separately gives the organization a foundation for continuously adjusting its division of work and enabling people, systems, and agents to undertake the corresponding work.
