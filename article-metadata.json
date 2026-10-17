@@ -130,11 +130,11 @@
       "id": "zh/bom-product-definition",
       "language": "zh",
       "title": "让 Agent 自动从图纸生成 BOM，为什么最后先重做了产品定义？",
-      "description": "从图纸识别继续追问 BOM 的生成依据，梳理标准产品定义、配置关系与需要人工确认的边界。",
+      "description": "客户最初想让 AI 从图纸自动生成 BOM。重新识别需求本质之后，先梳理了六个标准型号的产品定义和参数-物料配置规则，做成小工具投入使用。技术部门反馈，对应工作效率提升约 25%—30%。",
       "file": "zh/cases/bom-product-definition.md",
       "websitePath": "/zh/cases/bom-product-definition/",
       "publishedAt": "2026-09-24",
-      "updatedAt": "2026-10-12",
+      "updatedAt": "2026-10-17",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/cases/bom-product-definition.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/cases/bom-product-definition.md",
       "contentSha256": "cbda1e7b956c362d09e532404a8200d9894a57d764ca97f24f4dd45c3b72fa9d"
@@ -195,6 +195,20 @@
       "contentSha256": "e397c799d68fa99a41533a8dfd8b8df530880f2f4bda6a85bb4372be6f29f274"
     },
     {
+      "id": "zh/enterprise-os-to-industry-os",
+      "language": "zh",
+      "title": "从企业 OS 到产业 OS",
+      "description": "从行业规则复用与上下游协作出发，建立能够支持人、AI 和企业持续调整分工的数字环境。",
+      "igPath": "path0023",
+      "file": "zh/digitalization/enterprise-os-to-industry-os.md",
+      "websitePath": "/zh/digitalization/enterprise-os-to-industry-os/",
+      "publishedAt": "2026-10-17",
+      "updatedAt": "2026-10-17",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/digitalization/enterprise-os-to-industry-os.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/digitalization/enterprise-os-to-industry-os.md",
+      "contentSha256": "b332c48cb0059e080507e614f27196b182ebdd50c37f5ee76f3100792a872758"
+    },
+    {
       "id": "zh/business-modeling",
       "language": "zh",
       "title": "业务建模，本质是定义业务如何被表征",
@@ -221,6 +235,20 @@
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/digitalization/why-business-still-relies-on-chat-and-excel.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/digitalization/why-business-still-relies-on-chat-and-excel.md",
       "contentSha256": "5d8bcdff10f5453d1f68fb98d52d7e9c03c360491317ddf7995b1bc7026bfc7c"
+    },
+    {
+      "id": "zh/software-boundaries-enterprise-os",
+      "language": "zh",
+      "title": "软件的边界，不是业务的边界：为什么需要企业 OS",
+      "description": "从软件边界、系统集成与交期变更出发，讨论如何围绕完整业务组织共同数字环境，并让 LLM、IM 与系统实现接续工作。",
+      "igPath": "path0022",
+      "file": "zh/digitalization/software-boundaries-enterprise-os.md",
+      "websitePath": "/zh/digitalization/software-boundaries-enterprise-os/",
+      "publishedAt": "2026-10-17",
+      "updatedAt": "2026-10-17",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/digitalization/software-boundaries-enterprise-os.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/digitalization/software-boundaries-enterprise-os.md",
+      "contentSha256": "f9774432c9c4827e77cd62583fb66c726f607737e17c3026c5d39501c6b32350"
     },
     {
       "id": "zh/product-requirements-business-digital-twin-gap",
@@ -488,11 +516,11 @@
       "id": "en/bom-product-definition",
       "language": "en",
       "title": "Why did automating BOM generation from drawings first require redefining the product?",
-      "description": "Look beyond drawing recognition to clarify the product definitions and configuration relationships needed to generate a usable bill of materials (BOM), and identify which decisions require human confirmation.",
+      "description": "The customer initially wanted AI to generate BOMs automatically from drawings. After reassessing the underlying need, we first clarified the product definitions and parameter-to-material configuration rules for six standard models, then built a small tool and put it into use. The technical department reported an improvement of approximately 25%–30% in efficiency for this work.",
       "file": "en/cases/bom-product-definition.md",
       "websitePath": "/en/cases/bom-product-definition/",
       "publishedAt": "2026-09-24",
-      "updatedAt": "2026-10-12",
+      "updatedAt": "2026-10-17",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/cases/bom-product-definition.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/cases/bom-product-definition.md",
       "contentSha256": "9b31490d8a208fad15d3700a0d96350359f925a2460259e4693a443125453264"
@@ -540,6 +568,20 @@
       "contentSha256": "0524ad62568fa8783708f3d5c6dba2f56551f8a34969c3aaaa87a6d1212d7ed6"
     },
     {
+      "id": "en/enterprise-os-to-industry-os",
+      "language": "en",
+      "title": "From Enterprise OS to Industry OS",
+      "description": "Build a digital environment that supports ongoing changes in the division of work among people, AI, and enterprises, starting with reusable industry rules and collaboration across the value chain.",
+      "igPath": "path0023",
+      "file": "en/digitalization/enterprise-os-to-industry-os.md",
+      "websitePath": "/en/digitalization/enterprise-os-to-industry-os/",
+      "publishedAt": "2026-10-17",
+      "updatedAt": "2026-10-17",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/enterprise-os-to-industry-os.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/enterprise-os-to-industry-os.md",
+      "contentSha256": "4faa664e80ed9f3967f89a76bb9cb93bb99cb3a3ec8c703e61a4f68627c36180"
+    },
+    {
       "id": "en/business-modeling",
       "language": "en",
       "title": "Business Modeling is fundamentally about defining how business is represented",
@@ -566,6 +608,20 @@
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/why-business-still-relies-on-chat-and-excel.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/why-business-still-relies-on-chat-and-excel.md",
       "contentSha256": "f0d5c8de27d223cfe4fa3f3b46f15cc2a8a2c5f19fc6bee183733ff20bacca67"
+    },
+    {
+      "id": "en/software-boundaries-enterprise-os",
+      "language": "en",
+      "title": "Software boundaries are not business boundaries: Why an Enterprise OS is needed",
+      "description": "Explore software boundaries, integration, and delivery-date changes to examine how a shared digital environment can organize the business as a whole and connect work across LLMs, IM, and system implementations.",
+      "igPath": "path0022",
+      "file": "en/digitalization/software-boundaries-enterprise-os.md",
+      "websitePath": "/en/digitalization/software-boundaries-enterprise-os/",
+      "publishedAt": "2026-10-17",
+      "updatedAt": "2026-10-17",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/software-boundaries-enterprise-os.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/software-boundaries-enterprise-os.md",
+      "contentSha256": "a0f22c60bb4dd99985226037bc2c4b3fced766b2451af1c83b90e011ea63d1fb"
     },
     {
       "id": "en/product-requirements-business-digital-twin-gap",
