@@ -42,7 +42,7 @@ If no one takes responsibility for this work, every additional system requires a
 
 In [The end state of enterprise digitalization is a business digital twin](https://rikkalab.com/en/digitalization/business-digital-twin/), I discuss what the enterprise's digital world should represent and support. Building on that, I use Enterprise OS to describe the shared digital environment that supports the enterprise's ongoing operation.
 
-It must first establish what makes a business event or commitment valid, then determine which parts each software product supports.
+It must first establish what a business activity means and under what conditions it can proceed, then determine which parts each software product supports.
 
 In the delivery-date example, the customer's new request first becomes a change awaiting assessment, linked to the original order. Planners assess feasibility against materials and capacity. If the technical design needs changing, the relevant responsible person confirms it. Only after the final commitment is confirmed are the official delivery date and affected plans updated.
 
@@ -56,7 +56,7 @@ An Enterprise OS can begin with a limited business scope. Start by making delive
 
 ## 4. Bridging natural language and business operations with LLMs requires new ways to interact
 
-Traditional systems require people to understand how the software is organized, then translate reality into inputs it accepts. After a customer makes a remark, sales must find the order, identify the requested changes, fill in a form, and prepare explanations for other departments.
+Traditional systems require people to understand how the software is organized, then translate reality into inputs it accepts. When a customer requests a change, sales must find the order, identify the requested changes, fill in a form, and prepare explanations for other departments.
 
 LLMs have an opportunity to perform some of this translation, connecting natural language with structured business information. Using that capability also requires redesigning interaction.
 
@@ -77,13 +77,13 @@ Once the objects are identified, the system can present a draft change:
 
 After sales confirms that the system has understood correctly, the draft enters delivery-date assessment. The customer's original words are retained, so later participants can see how they were interpreted.
 
-The change here is that people can express business intent first, while the system reveals the structure that needs confirmation. It asks follow-up questions when information is missing, presents the changes in a table when several items are involved, and opens the relevant drawing version when needed. The interaction adapts to the work at hand.
+The change here is that people can express business intent first, while the system surfaces the structured details that need confirmation. It asks follow-up questions when information is missing, presents the changes in a table when several items are involved, and opens the relevant drawing version when needed. The interaction adapts to the work at hand.
 
 In the other direction, the system can turn business structure back into an explanation suitable for people. If assessment finds that two of the ten units lack components, it can identify those units, the missing materials, and their expected arrival dates, showing sales exactly what is preventing the customer's request from being met.
 
-What needs redesigning is the entire interaction: how people turn everyday language into business actions, and how the system communicates the results back to them. LLM-generated content must be grounded in explicit objects before it can provide a basis for subsequent work.
+What needs redesigning is the entire interaction: how natural-language requests enter business workflows, and how the system communicates the results back to them. LLM-generated content must be grounded in explicit objects before it can provide a basis for subsequent work.
 
-## 5. IM deeply integrated with business will become a core part of the infrastructure
+## 5. Business-integrated messaging will become a key part of the infrastructure
 
 Delivery-date assessment is rarely completed by one person. Sales contacts planning, planning asks procurement, and engineers may need to confirm alternatives. Many critical facts and decisions emerge in these exchanges.
 
@@ -91,7 +91,7 @@ This makes IM an important entry point for everyday conversation to become part 
 
 Return to the ten cabinets. Procurement replies in a group chat: “The supplier says the missing components can arrive on Thursday.” If the system only retains the message, planners still need to identify which materials it concerns and update the spreadsheet manually. When someone asks about delivery risk days later, they must search the chat history again.
 
-With deeper integration, the reply can be linked to the relevant procurement item and become arrival information awaiting confirmation. It must retain the meaning “the supplier promises arrival on Thursday,” rather than being treated as confirmation of receipt.
+With deeper integration, the reply can be linked to the relevant procurement item and become a pending record of the supplier's promised delivery date. It must retain the meaning “the supplier promises arrival on Thursday,” rather than being treated as confirmation of receipt.
 
 Planners viewing that information can also see the ten affected cabinets and the production time still needed after the components arrive. If Thursday is too late, participants can continue discussing alternatives around the same delivery-date change. Once an approach is confirmed, the corresponding tasks and plans are updated.
 

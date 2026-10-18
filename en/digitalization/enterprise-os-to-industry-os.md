@@ -1,12 +1,12 @@
 In [Software boundaries are not business boundaries: Why an Enterprise OS is needed](https://rikkalab.com/en/digitalization/software-boundaries-enterprise-os/), I discuss how to organize systems around the business as a whole. Continuing this work raises two questions: How much of one enterprise’s model of its operations can other companies in the same industry reuse? And can work continue across company boundaries without losing its context?
 
-The first concerns the cost of building these systems; the second concerns industry collaboration. The extension from Enterprise OS to Industry OS emerges where these two directions meet.
+The first concerns the cost of building these systems; the second concerns industry collaboration. The extension from Enterprise OS to Industry OS, a shared digital environment across the industry value chain, emerges where these two directions meet.
 
 ## 1. Industry software has always sought reuse; the difficulty is separating the sources of variation
 
 Whether software is deployed on premises or delivered as SaaS, capturing industry models and reducing repeated implementation have long been goals. The difficulty is that “customer requirements” collected during projects often combine needs with very different origins.
 
-Consider the checks required before accepting delivered equipment. A customer may ask for product documentation to be uploaded, the equipment department to verify it, an additional approval above a spending threshold, and a summary to be sent to the hospital director.
+Consider the checks required before accepting delivered equipment. A customer may ask for product documentation to be uploaded, the medical equipment department to verify it, an additional approval above a spending threshold, and a summary to be sent to the hospital director.
 
 Some requirements come from industry regulations, others from staffing and departmental arrangements, internal management policies, or simply how a particular manager wants information presented. In a requirements list, they can all become fields, workflow steps, and notification settings.
 
@@ -14,7 +14,7 @@ When these sources are not separated, a common response is to leave the choices 
 
 **Configuration options provide a way to accommodate differences, but we still need to understand where those differences come from before configuring anything.**
 
-For example, “the equipment department verifies the documents” can be separated further. Document verification is a business function the enterprise needs; the equipment department is the assignee this hospital has chosen. At another hospital without a separate equipment department, the assignment must change, while the verification requirements themselves may remain the same.
+For example, “the medical equipment department verifies the documents” can be separated further. Document verification is a business function the enterprise needs; the medical equipment department is the assignee this hospital has chosen. At another hospital without a separate medical equipment department, the assignment must change, while the verification requirements themselves may remain the same.
 
 Once these layers are separated, the next enterprise can start from an existing model and identify its own differences. Modeling still has a cost, but reusable parts can become accumulated industry knowledge rather than work every project must repeat.
 
@@ -22,7 +22,7 @@ Once these layers are separated, the next enterprise can start from an existing 
 
 Medical device registration certificates provide a concrete example.
 
-In China, medical devices are subject to registration or filing requirements, and procurement also involves checking supplier qualifications and product conformity documentation and keeping records of incoming document verification. The following example concerns products that require registration.
+In China, medical devices are subject to registration or filing requirements, and procurement also involves checking supplier qualifications and product conformity documentation and keeping records of those checks. The following example concerns products that require registration.
 
 When a hospital purchases a device, it needs to verify the product's registration information and its correspondence with the model actually delivered. This becomes part of the checks required before accepting delivered equipment, expressed as documentation checklists and document verification records.
 
@@ -50,7 +50,7 @@ When an audit examines a device, its purchase record can lead back to the docume
 
 This is also what Industry OS means: reusable industry models become part of actual business across enterprises, providing a foundation for participants to work together.
 
-It reduces two kinds of repetition. Peers need not redefine the same industry requirements, and upstream and downstream participants need not identify from scratch what the other party is providing in every transaction. Actual collaboration and authorization determine what is shared. For example, a supplier provides the materials needed for a delivery while the hospital retains its internal approval records.
+It reduces two kinds of repetition. Companies in similar roles need not redefine the same industry requirements, and upstream and downstream participants need not identify from scratch what the other party is providing in every transaction. Actual collaboration and authorization determine what is shared. For example, a supplier provides the materials needed for a delivery while the hospital retains its internal approval records.
 
 With AI, it becomes even more important to build this shared foundation across the industry.
 
@@ -92,7 +92,7 @@ The earlier method of separating industry commonalities from enterprise differen
 
 The value of separating these layers extends beyond designing today's agents.
 
-As AI capabilities change, the existing division of work will change too. Suppliers may automatically check documentation completeness before delivery, while hospital staff focus more on exceptions. Specialist providers may perform preliminary document reviews for several institutions. Work once requiring an internal position may become an external service, and a function may be divided differently among collaborating actors.
+As AI capabilities change, the division of work may change as well. Suppliers may automatically check documentation completeness before delivery, while hospital staff focus more on exceptions. Specialist providers may perform preliminary document reviews for several institutions. Work once requiring an internal position may become an external service, and a function may be divided differently among collaborating actors.
 
 If business logic is fixed to today's departmental, company, or agent boundaries, every change in the division of work requires restructuring systems, moving data, and explaining context again. An industry perspective lets us first understand why the work exists, what it depends on, and what result it needs to produce, then decide who should undertake it.
 

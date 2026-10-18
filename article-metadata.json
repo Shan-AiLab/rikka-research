@@ -153,6 +153,20 @@
       "contentSha256": "64467f9e64844336f71609e3128bf33ae990e76972f23e899495a3454f18d18e"
     },
     {
+      "id": "zh/complexity-does-not-disappear",
+      "language": "zh",
+      "title": "复杂度不会消失，只会转移？",
+      "description": "复杂度会转移，也可能因重复定义和不一致被复制、放大。通过上游建模与结构调整，减少整个系统需要处理的不必要复杂度。",
+      "igPath": "path0024",
+      "file": "zh/digitalization/complexity-does-not-disappear.md",
+      "websitePath": "/zh/digitalization/complexity-does-not-disappear/",
+      "publishedAt": "2026-10-18",
+      "updatedAt": "2026-10-18",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/digitalization/complexity-does-not-disappear.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/digitalization/complexity-does-not-disappear.md",
+      "contentSha256": "7fcaa1d98204c8e236e587cdee4ab78aa12b57b864ebfae80b3b0ac97b7b90bf"
+    },
+    {
       "id": "zh/business-digital-twin",
       "language": "zh",
       "title": "企业数字化的终局，是业务的数字孪生",
@@ -377,6 +391,20 @@
       "contentSha256": "f16ec1160d0e777df90f6b2d21a32eae7ca96d3841284675b33282493de61ee5"
     },
     {
+      "id": "zh/why-agents-stall",
+      "language": "zh",
+      "title": "为什么 Agent 做着做着就做不动了？",
+      "description": "从 AI 问数出发，区分 Agent 自身与业务环境的复杂度，理解为什么需要建设共享数字环境，而不只是增强 Harness、Context 和 Memory。",
+      "igPath": "path0025",
+      "file": "zh/digitalization/why-agents-stall.md",
+      "websitePath": "/zh/digitalization/why-agents-stall/",
+      "publishedAt": "2026-10-18",
+      "updatedAt": "2026-10-18",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/digitalization/why-agents-stall.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/digitalization/why-agents-stall.md",
+      "contentSha256": "05181abfa6e62702e2391121fb31766669bdc6488413abbac377939767067667"
+    },
+    {
       "id": "zh/harness-in-digitalization",
       "language": "zh",
       "title": "把 Agent Harness 放回数字化背景中理解",
@@ -526,6 +554,20 @@
       "contentSha256": "9b31490d8a208fad15d3700a0d96350359f925a2460259e4693a443125453264"
     },
     {
+      "id": "en/complexity-does-not-disappear",
+      "language": "en",
+      "title": "Complexity doesn’t disappear—it only shifts. Or does it?",
+      "description": "Complexity can shift, be duplicated, and grow through inconsistent definitions. Upstream modeling and structural changes can reduce the unnecessary complexity the whole system must handle.",
+      "igPath": "path0024",
+      "file": "en/digitalization/complexity-does-not-disappear.md",
+      "websitePath": "/en/digitalization/complexity-does-not-disappear/",
+      "publishedAt": "2026-10-18",
+      "updatedAt": "2026-10-18",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/complexity-does-not-disappear.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/complexity-does-not-disappear.md",
+      "contentSha256": "3c216dbf3ce477b10183d6d9165d65d25e4fba5d0ab1dfcb58d1afcbc1af890d"
+    },
+    {
       "id": "en/business-digital-twin",
       "language": "en",
       "title": "Enterprise digitalization should ultimately create a business digital twin",
@@ -579,7 +621,7 @@
       "updatedAt": "2026-10-17",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/enterprise-os-to-industry-os.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/enterprise-os-to-industry-os.md",
-      "contentSha256": "4faa664e80ed9f3967f89a76bb9cb93bb99cb3a3ec8c703e61a4f68627c36180"
+      "contentSha256": "7811a5e4cd93d185c4e57e9b4de1e7f349e294dadc065dcebefdb26140ecd3a5"
     },
     {
       "id": "en/business-modeling",
@@ -621,7 +663,7 @@
       "updatedAt": "2026-10-17",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/software-boundaries-enterprise-os.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/software-boundaries-enterprise-os.md",
-      "contentSha256": "a0f22c60bb4dd99985226037bc2c4b3fced766b2451af1c83b90e011ea63d1fb"
+      "contentSha256": "acc45d9131dfaee6b4d5e87cbaf83a04dff2728cb6b89673c9046d42fe9b7973"
     },
     {
       "id": "en/product-requirements-business-digital-twin-gap",
@@ -734,6 +776,20 @@
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/enterprise-agent-functional-division.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/enterprise-agent-functional-division.md",
       "contentSha256": "836b4fd05934d9c32ffb2254cf574540152104dc03474c07868780bdd5f164c8"
+    },
+    {
+      "id": "en/why-agents-stall",
+      "language": "en",
+      "title": "Why do AI agents stall when put to work?",
+      "description": "Start with AI queries over business data to distinguish complexity within an agent from complexity in its environment, and examine why shared digital environments matter alongside harnesses, context, and memory.",
+      "igPath": "path0025",
+      "file": "en/digitalization/why-agents-stall.md",
+      "websitePath": "/en/digitalization/why-agents-stall/",
+      "publishedAt": "2026-10-18",
+      "updatedAt": "2026-10-18",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/why-agents-stall.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/why-agents-stall.md",
+      "contentSha256": "fce7e95e9499a28949637f51d4579cf6ed6813eee51ecf67a0c05686380a0056"
     },
     {
       "id": "en/harness-in-digitalization",
