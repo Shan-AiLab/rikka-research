@@ -816,6 +816,48 @@
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/context-engineering-scratchpad-management.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/context-engineering-scratchpad-management.md",
       "contentSha256": "912955dd72e5fc7482136984d7e927ceb64a12bc7481704860ab17f447ae8053"
+    },
+    {
+      "id": "zh/new-productivity-production-relations",
+      "language": "zh",
+      "title": "新生产力，需要怎样的生产关系？",
+      "description": "从岗位替代到组织与产业分工重构。",
+      "file": "zh/digitalization/new-productivity-production-relations.md",
+      "websitePath": "/zh/digitalization/new-productivity-production-relations/",
+      "publishedAt": "2026-10-19",
+      "updatedAt": "2026-10-19",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/digitalization/new-productivity-production-relations.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/digitalization/new-productivity-production-relations.md",
+      "contentSha256": "b7e3927db6fd06be8c1acf94b0340250fa8524284089e3d5458d7f0e432efdf0",
+      "igPath": "path0026"
+    },
+    {
+      "id": "en/new-productivity-production-relations",
+      "language": "en",
+      "title": "What Relations of Production Do New Productive Forces Require?",
+      "description": "From job replacement to reshaping organizational and industry divisions of work.",
+      "file": "en/digitalization/new-productivity-production-relations.md",
+      "websitePath": "/en/digitalization/new-productivity-production-relations/",
+      "publishedAt": "2026-10-19",
+      "updatedAt": "2026-10-19",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/new-productivity-production-relations.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/new-productivity-production-relations.md",
+      "contentSha256": "1a97b34ee9fb31c81fd24ffcc50626e8820bfd219046db0d015ca8d766d4ca09",
+      "igPath": "path0026"
+    },
+    {
+      "id": "en/business-modeling-defines-representation",
+      "language": "en",
+      "title": "The Hidden Gap in Enterprise Digitalization: Who Defines How Business Is Represented?",
+      "description": "Many requirements become clear through ongoing business modeling, design, and operation. The gap is a missing function that continuously defines, maintains, and evolves the digital representation of the business.",
+      "igPath": "path0008",
+      "file": "en/digitalization/business-modeling-defines-representation.md",
+      "websitePath": "/en/digitalization/business-modeling-defines-representation/",
+      "publishedAt": "2026-09-24",
+      "updatedAt": "2026-10-19",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/business-modeling-defines-representation.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/business-modeling-defines-representation.md",
+      "contentSha256": "ee7136d86b7d7ef1eff4aba2e0cd4ae3d3bbf45d7c7639fd5762740b11dab3b7"
     }
   ]
 }
