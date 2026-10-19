@@ -72,6 +72,8 @@ But if we drive back and forth through the same mud every day, **why not conside
 
 Building it takes investment, but once it exists, every vehicle can use it. New vehicles need not overcome the same obstacles again.
 
+Building the road may even use more fuel: excavators and road rollers burn fuel not to complete a single delivery, but to change the conditions for many deliveries to come. Likewise, evaluating the cost of agents executing tasks and the investment in a shared business environment requires looking beyond the resources consumed by a single task.
+
 Enterprise AI faces a similar choice.
 
 Client enterprises also struggle with complex business environments, fragmented systems, and extensive manual coordination. They may not realize that, beyond adding tools and people, they can rebuild the business environment itself.

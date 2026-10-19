@@ -78,7 +78,7 @@ For example, a company needs to assess whether an order can be delivered on time
 
 Today, a particular planner may perform this work. As the company grows, different teams may take it on for different product lines. Systems may also contribute to the parts where data and rules are sufficiently developed. The way it is performed changes, but the company still needs the capability to assess delivery dates.
 
-Conversely, one role often contains several functions. A planning lead may assess delivery dates, schedule production, and help coordinate major exceptions. Treating the role as an indivisible unit makes it difficult to discuss how to redistribute this work.
+Conversely, one role often contains several functions. A planning lead may assess delivery dates, schedule production, and help coordinate major exceptions. A job is not a natural building block of a business, but a combination of functions and responsibilities shaped by the productive capabilities and organizational conditions of its time. Defining an agent’s boundaries directly around an existing job fixes the old division of work in advance, overlooking the possibility of splitting, recombining, and reassigning functions.
 
 Functions and their assignment can be maintained at two levels:
 

@@ -110,6 +110,8 @@ Yet the work that never occurs may constitute a substantial benefit of system ar
 
 Complexity therefore need not be conserved. Design should be evaluated not only by work reduced locally, but by the costs of building, operating, and evolving the whole system.
 
+Building the environment may require more upfront investment while reducing repeated definition, judgment, and coordination work across later tasks. Assessing whether it is worthwhile requires a long enough time horizon and a sufficiently complete scope of business operations, rather than comparing only the cost of one task.
+
 ## 5. How upstream modeling reduces downstream complexity
 
 Return to the manufacturer.
