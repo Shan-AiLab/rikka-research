@@ -135,6 +135,8 @@ Its potential value is not only reducing duplicated effort; it may also provide 
 
 This path does not have to begin with a complete platform. It can expand from small, real business loops, allowing validated structures and capabilities to be reused by more participants.
 
+![How new productive forces can reshape production relations and lead to shared digital environments such as an Enterprise OS or Industry OS](/assets/diagrams/new-productivity-production-relations-en.svg)
+
 ## Conclusion | From replacing horses to rebuilding the transportation network
 
 Imagine a company that no longer relies mainly on people watching systems and group chats to keep work moving.

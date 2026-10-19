@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+  <title id="title">How new productive forces can reshape production relations</title>
+  <desc id="desc">New productive forces change intelligent capabilities and execution costs. This prompts a reassessment of business and the division of work, followed by changes to production relations and the production environment. The resulting shared digital environment may take the form of an Enterprise OS or an Industry OS.</desc>
+  <rect width="1200" height="680" fill="#fff"/>
+  <g fill="#171717" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">
+    <text x="600" y="58" font-size="32" font-weight="700">New productive forces emerge</text>
+    <text x="600" y="96" font-size="23" fill="#666">Intelligent capabilities and execution costs change</text>
+    <text x="600" y="150" font-size="32" fill="#888">↓</text>
+    <text x="600" y="211" font-size="30" font-weight="700">Reassess the business and division of work</text>
+    <text x="600" y="249" font-size="23" fill="#666">First ask what needs to be done, then who should do it</text>
+    <text x="600" y="302" font-size="32" fill="#888">↓</text>
+    <text x="600" y="363" font-size="30" font-weight="700">Reshape production relations and the production environment</text>
+    <text x="600" y="401" font-size="23" fill="#666">Functions, authority, rules, collaboration, and systems adjust together</text>
+    <text x="600" y="458" font-size="23" fill="#666">A possible shared digital environment</text>
+    <text x="600" y="492" font-size="32" fill="#888">↓</text>
+  </g>
+  <g fill="#fff" stroke="#dedede" stroke-width="2">
+    <rect x="28" y="516" width="558" height="112" rx="12"/>
+    <rect x="614" y="516" width="558" height="112" rx="12"/>
+  </g>
+  <g fill="#171717" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">
+    <text x="307" y="561" font-size="29" font-weight="700">Enterprise OS</text>
+    <text x="307" y="598" font-size="22" fill="#666">A shared business environment within a company</text>
+    <text x="893" y="561" font-size="29" font-weight="700">Industry OS</text>
+    <text x="893" y="598" font-size="22" fill="#666">A shared business environment across companies</text>
+    <text x="600" y="662" font-size="22" fill="#666">How might new productive forces reshape organizations and their environments?</text>
+  </g>
+</svg>
