@@ -82,4 +82,6 @@ AI 可以辅助提取定义、建立关联、发现不一致，并在变更时�
 
 沿着三张架构图往前推两步，会回到产品能力和业务运行本身。一个难以实现的功能，可能来自尚未澄清的业务定义；一段复杂的自动化流程，也可能在重新组织工作之后大幅简化。AI 参与这两层工作，就有机会改变需要建设的软件及其复杂度。
 
+这背后其实是一个更一般的系统设计问题：复杂度并不必然守恒，改变上游业务结构，有可能减少整个系统的复杂度。详见[《复杂度不会消失，只会转移？》](https://rikkalab.com/zh/digitalization/complexity-does-not-disappear/)。
+
 [优化一个“任务”之前，先问一下它为什么存在。](https://rikkalab.com/zh/digitalization/what-it-means-for-ai-to-complete-tasks/)

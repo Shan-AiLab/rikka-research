@@ -153,6 +153,20 @@
       "contentSha256": "64467f9e64844336f71609e3128bf33ae990e76972f23e899495a3454f18d18e"
     },
     {
+      "id": "zh/new-productivity-production-relations",
+      "language": "zh",
+      "title": "新生产力，需要怎样的生产关系？",
+      "description": "从岗位替代到组织与产业分工重构。",
+      "igPath": "path0026",
+      "file": "zh/digitalization/new-productivity-production-relations.md",
+      "websitePath": "/zh/digitalization/new-productivity-production-relations/",
+      "publishedAt": "2026-10-19",
+      "updatedAt": "2026-10-19",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/digitalization/new-productivity-production-relations.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/digitalization/new-productivity-production-relations.md",
+      "contentSha256": "b7e3927db6fd06be8c1acf94b0340250fa8524284089e3d5458d7f0e432efdf0"
+    },
+    {
       "id": "zh/complexity-does-not-disappear",
       "language": "zh",
       "title": "复杂度不会消失，只会转移？",
@@ -231,10 +245,10 @@
       "file": "zh/digitalization/business-modeling.md",
       "websitePath": "/zh/digitalization/business-modeling/",
       "publishedAt": "2026-09-24",
-      "updatedAt": "2026-09-24",
+      "updatedAt": "2026-10-19",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/digitalization/business-modeling.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/digitalization/business-modeling.md",
-      "contentSha256": "6095f59aa903434bc1f5801c26e02c80a44b959b35ce0cec6bcde975f2ca953f"
+      "contentSha256": "aed187380419e3210dc28895bf8075f20b1f6e03653f7772ef654a93985fef2d"
     },
     {
       "id": "zh/why-business-still-relies-on-chat-and-excel",
@@ -287,10 +301,10 @@
       "file": "zh/digitalization/business-product-technical-architecture.md",
       "websitePath": "/zh/digitalization/business-product-technical-architecture/",
       "publishedAt": "2026-10-14",
-      "updatedAt": "2026-10-14",
+      "updatedAt": "2026-10-19",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/digitalization/business-product-technical-architecture.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/digitalization/business-product-technical-architecture.md",
-      "contentSha256": "50dde118a0a2fbf752757c230e42b0372216e7b4a9b97ead15ad0db9fb345bbe"
+      "contentSha256": "b2f28efe230c43559fbb86880ded62db7830b10cf269747104602e98632735cc"
     },
     {
       "id": "zh/system-implementation-configuration-hell",
@@ -315,10 +329,10 @@
       "file": "zh/digitalization/business-modeling-defines-representation.md",
       "websitePath": "/zh/digitalization/business-modeling-defines-representation/",
       "publishedAt": "2026-09-24",
-      "updatedAt": "2026-09-24",
+      "updatedAt": "2026-10-19",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/digitalization/business-modeling-defines-representation.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/digitalization/business-modeling-defines-representation.md",
-      "contentSha256": "0df3b0250c01402715fad67675ce26a09b2701cbed42c1049ccbea2439668757"
+      "contentSha256": "c595a9304f95a22a3eeb22566a4b31d85454e4da18fb489885271275c45f78b7"
     },
     {
       "id": "zh/agent-project-progress-from-messages",
@@ -554,6 +568,20 @@
       "contentSha256": "9b31490d8a208fad15d3700a0d96350359f925a2460259e4693a443125453264"
     },
     {
+      "id": "en/new-productivity-production-relations",
+      "language": "en",
+      "title": "What Relations of Production Do New Productive Forces Require?",
+      "description": "From job replacement to reshaping organizational and industry divisions of work.",
+      "igPath": "path0026",
+      "file": "en/digitalization/new-productivity-production-relations.md",
+      "websitePath": "/en/digitalization/new-productivity-production-relations/",
+      "publishedAt": "2026-10-19",
+      "updatedAt": "2026-10-19",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/new-productivity-production-relations.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/new-productivity-production-relations.md",
+      "contentSha256": "1a97b34ee9fb31c81fd24ffcc50626e8820bfd219046db0d015ca8d766d4ca09"
+    },
+    {
       "id": "en/complexity-does-not-disappear",
       "language": "en",
       "title": "Complexity doesn’t disappear—it only shifts. Or does it?",
@@ -632,10 +660,10 @@
       "file": "en/digitalization/business-modeling.md",
       "websitePath": "/en/digitalization/business-modeling/",
       "publishedAt": "2026-09-24",
-      "updatedAt": "2026-09-24",
+      "updatedAt": "2026-10-19",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/business-modeling.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/business-modeling.md",
-      "contentSha256": "af3f2863c2df55cfa2335586387f8562bac963f9d226196d871778c2edfa9f12"
+      "contentSha256": "725237c7606c4cefe14503c6f7b172eda8805b5e2611131f38d71c0e59caad6f"
     },
     {
       "id": "en/why-business-still-relies-on-chat-and-excel",
@@ -688,10 +716,10 @@
       "file": "en/digitalization/business-product-technical-architecture.md",
       "websitePath": "/en/digitalization/business-product-technical-architecture/",
       "publishedAt": "2026-10-14",
-      "updatedAt": "2026-10-14",
+      "updatedAt": "2026-10-19",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/business-product-technical-architecture.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/business-product-technical-architecture.md",
-      "contentSha256": "35ae96b096c35a7939f601bbb9849f73c42fd93b0760f11802ba23fd9fb8434d"
+      "contentSha256": "07222a8cf2abd8b119ab55a457752f70c19a9bb56283905b65e5d2b78aef937a"
     },
     {
       "id": "en/system-implementation-configuration-hell",
@@ -706,6 +734,20 @@
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/system-implementation-configuration-hell.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/system-implementation-configuration-hell.md",
       "contentSha256": "a5048f9f68628b752a0df5b09aca015c1366206dc99c25aa11a997de3272a013"
+    },
+    {
+      "id": "en/business-modeling-defines-representation",
+      "language": "en",
+      "title": "The Hidden Gap in Enterprise Digitalization: Who Defines How Business Is Represented?",
+      "description": "Many requirements only become clear over time through modeling, design, and operation. Yet business teams understand reality without necessarily being able to define it consistently, while software vendors usually implement only requirements already articulated. The gap is a missing role that continuously defines the digital representation of the business.",
+      "igPath": "path0008",
+      "file": "en/digitalization/business-modeling-defines-representation.md",
+      "websitePath": "/en/digitalization/business-modeling-defines-representation/",
+      "publishedAt": "2026-09-24",
+      "updatedAt": "2026-10-19",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/business-modeling-defines-representation.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/business-modeling-defines-representation.md",
+      "contentSha256": "ee7136d86b7d7ef1eff4aba2e0cd4ae3d3bbf45d7c7639fd5762740b11dab3b7"
     },
     {
       "id": "en/agent-project-progress-from-messages",
@@ -816,48 +858,6 @@
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/context-engineering-scratchpad-management.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/context-engineering-scratchpad-management.md",
       "contentSha256": "912955dd72e5fc7482136984d7e927ceb64a12bc7481704860ab17f447ae8053"
-    },
-    {
-      "id": "zh/new-productivity-production-relations",
-      "language": "zh",
-      "title": "新生产力，需要怎样的生产关系？",
-      "description": "从岗位替代到组织与产业分工重构。",
-      "file": "zh/digitalization/new-productivity-production-relations.md",
-      "websitePath": "/zh/digitalization/new-productivity-production-relations/",
-      "publishedAt": "2026-10-19",
-      "updatedAt": "2026-10-19",
-      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/digitalization/new-productivity-production-relations.md",
-      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/digitalization/new-productivity-production-relations.md",
-      "contentSha256": "b7e3927db6fd06be8c1acf94b0340250fa8524284089e3d5458d7f0e432efdf0",
-      "igPath": "path0026"
-    },
-    {
-      "id": "en/new-productivity-production-relations",
-      "language": "en",
-      "title": "What Relations of Production Do New Productive Forces Require?",
-      "description": "From job replacement to reshaping organizational and industry divisions of work.",
-      "file": "en/digitalization/new-productivity-production-relations.md",
-      "websitePath": "/en/digitalization/new-productivity-production-relations/",
-      "publishedAt": "2026-10-19",
-      "updatedAt": "2026-10-19",
-      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/new-productivity-production-relations.md",
-      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/new-productivity-production-relations.md",
-      "contentSha256": "1a97b34ee9fb31c81fd24ffcc50626e8820bfd219046db0d015ca8d766d4ca09",
-      "igPath": "path0026"
-    },
-    {
-      "id": "en/business-modeling-defines-representation",
-      "language": "en",
-      "title": "The Hidden Gap in Enterprise Digitalization: Who Defines How Business Is Represented?",
-      "description": "Many requirements become clear through ongoing business modeling, design, and operation. The gap is a missing function that continuously defines, maintains, and evolves the digital representation of the business.",
-      "igPath": "path0008",
-      "file": "en/digitalization/business-modeling-defines-representation.md",
-      "websitePath": "/en/digitalization/business-modeling-defines-representation/",
-      "publishedAt": "2026-09-24",
-      "updatedAt": "2026-10-19",
-      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/business-modeling-defines-representation.md",
-      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/business-modeling-defines-representation.md",
-      "contentSha256": "ee7136d86b7d7ef1eff4aba2e0cd4ae3d3bbf45d7c7639fd5762740b11dab3b7"
     }
   ]
 }

@@ -82,4 +82,6 @@ From model training to agents, harnesses, and development tools, if improvements
 
 Going two steps upstream along the three architecture diagrams returns us to product capabilities and business operations. A difficult-to-implement feature may arise from an unclear business definition. A complex automated workflow may become much simpler after the work is reorganized. AI participating at these two levels could change the software that needs to be built and its complexity.
 
+This points to a broader question in system design: complexity is not necessarily conserved. Changing the structure of upstream business may reduce complexity across the system as a whole. See [“Complexity doesn’t disappear—it only shifts. Or does it?”](https://rikkalab.com/en/digitalization/complexity-does-not-disappear/).
+
 [Before optimizing a task, ask why it exists.](https://rikkalab.com/en/digitalization/what-it-means-for-ai-to-complete-tasks/)

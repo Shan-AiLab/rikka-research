@@ -58,6 +58,8 @@ Conversely, if a distinction has no downstream effect on the current problem, mo
 
 Business Modeling is, in essence, purposeful compression.
 
+But does compressing a representation mean that the system as a whole becomes less complex? To answer that, we need to distinguish the complexity inherent in the business from the additional complexity introduced by how the system is organized. See [“Complexity doesn’t disappear—it only shifts. Or does it?”](https://rikkalab.com/en/digitalization/complexity-does-not-disappear/).
+
 ## 03 | Objects, relationships, and states are “cut” from reality
 
 This is why modeling is often less about organizing existing requirements more neatly and more about rethinking how to divide reality into objects, relationships, and states.
