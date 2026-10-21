@@ -189,10 +189,10 @@
       "file": "zh/digitalization/business-digital-twin.md",
       "websitePath": "/zh/digitalization/business-digital-twin/",
       "publishedAt": "2026-10-13",
-      "updatedAt": "2026-10-13",
+      "updatedAt": "2026-10-21",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/digitalization/business-digital-twin.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/digitalization/business-digital-twin.md",
-      "contentSha256": "366b0fa2c6d6e5d3380a4bc17c7f2466fd3aa2cff3fccbfc14974294d2a022bb"
+      "contentSha256": "ab4429169024459b9441c755ecd95673a3ee6a8778a28b6378acae6ffb5b209e"
     },
     {
       "id": "zh/digitalization-governance-capacity",
@@ -203,10 +203,10 @@
       "file": "zh/digitalization/digitalization-governance-capacity.md",
       "websitePath": "/zh/digitalization/digitalization-governance-capacity/",
       "publishedAt": "2026-09-23",
-      "updatedAt": "2026-09-23",
+      "updatedAt": "2026-10-21",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/digitalization/digitalization-governance-capacity.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/digitalization/digitalization-governance-capacity.md",
-      "contentSha256": "bc77df39ece1a9b8a2a699082c4fc3caafcd5ac16500264ecb466102c9b5ce22"
+      "contentSha256": "473b3806cdd24f45a1481ceeed45fafaca9ea45d13bf47a5b33b224613949a7c"
     },
     {
       "id": "zh/shared-business-map",
@@ -385,10 +385,10 @@
       "file": "zh/digitalization/enterprise-ai-starts-with-business.md",
       "websitePath": "/zh/digitalization/enterprise-ai-starts-with-business/",
       "publishedAt": "2026-09-23",
-      "updatedAt": "2026-09-23",
+      "updatedAt": "2026-10-21",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/digitalization/enterprise-ai-starts-with-business.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/digitalization/enterprise-ai-starts-with-business.md",
-      "contentSha256": "6a6de8f7e2d3b17fe42179758c61596e9cf826a6ea9b20205d59f1c23c3c0d2c"
+      "contentSha256": "af853f66cd661a42293a1b1d2b4e4ce6a6da76a66df1aee4a2d064dfc8e31e10"
     },
     {
       "id": "zh/enterprise-agent-functional-division",
@@ -408,7 +408,7 @@
       "id": "zh/why-agents-stall",
       "language": "zh",
       "title": "为什么 Agent 做着做着就做不动了？",
-      "description": "从 AI 问数出发，区分 Agent 自身与业务环境的复杂度，理解为什么需要建设共享数字环境，而不只是增强 Harness、Context 和 Memory。",
+      "description": "业务、产品和技术未消化的复杂度，最终都落到了 Agent 身上。",
       "igPath": "path0025",
       "file": "zh/digitalization/why-agents-stall.md",
       "websitePath": "/zh/digitalization/why-agents-stall/",
@@ -416,7 +416,7 @@
       "updatedAt": "2026-10-19",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/digitalization/why-agents-stall.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/digitalization/why-agents-stall.md",
-      "contentSha256": "113e4ca95ca1f383be6511c7d697a653a6c731a597dfe45a7ce36d5e06bfd6ea"
+      "contentSha256": "de0604f2fabdee53532bb9b76d3bb27dc183820e3ca6a5d9e21f7af9cbde81ac"
     },
     {
       "id": "zh/harness-in-digitalization",
@@ -604,10 +604,10 @@
       "file": "en/digitalization/business-digital-twin.md",
       "websitePath": "/en/digitalization/business-digital-twin/",
       "publishedAt": "2026-10-13",
-      "updatedAt": "2026-10-13",
+      "updatedAt": "2026-10-21",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/business-digital-twin.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/business-digital-twin.md",
-      "contentSha256": "9552d0b02ab50085dcf88bdc2b149e1047252f8e73b11d1db398c77cdba6fb02"
+      "contentSha256": "febfc2e0924fd3d9f0f787fb8e2cdbe27a1b36621d35de716c84df8f8233d141"
     },
     {
       "id": "en/digitalization-governance-capacity",
@@ -618,10 +618,10 @@
       "file": "en/digitalization/digitalization-governance-capacity.md",
       "websitePath": "/en/digitalization/digitalization-governance-capacity/",
       "publishedAt": "2026-09-23",
-      "updatedAt": "2026-09-23",
+      "updatedAt": "2026-10-21",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/digitalization-governance-capacity.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/digitalization-governance-capacity.md",
-      "contentSha256": "3ce2020097ede798e2909721d672133827ac7a086b6b669319dc451b03c630c0"
+      "contentSha256": "772473a80af210a3262ca57c6b79dbf4ffe5baf5aebced3272bfa71258bafab3"
     },
     {
       "id": "en/shared-business-map",
@@ -800,10 +800,10 @@
       "file": "en/digitalization/enterprise-ai-starts-with-business.md",
       "websitePath": "/en/digitalization/enterprise-ai-starts-with-business/",
       "publishedAt": "2026-09-23",
-      "updatedAt": "2026-09-23",
+      "updatedAt": "2026-10-21",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/enterprise-ai-starts-with-business.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/enterprise-ai-starts-with-business.md",
-      "contentSha256": "3be26a14234cfdc4fae154adb7a81c887738116df5558d5c6350627eed551d8c"
+      "contentSha256": "f5ffea69327a0924be600e930a6bc79eac782d4aa3a1decb562cd4b2f8759bcb"
     },
     {
       "id": "en/enterprise-agent-functional-division",
@@ -823,7 +823,7 @@
       "id": "en/why-agents-stall",
       "language": "en",
       "title": "Why do AI agents stall when put to work?",
-      "description": "Start with AI queries over business data to distinguish complexity within an agent from complexity in its environment, and examine why shared digital environments matter alongside harnesses, context, and memory.",
+      "description": "Complexity left unresolved in business definitions, product design, and technical implementation ultimately lands on the agent.",
       "igPath": "path0025",
       "file": "en/digitalization/why-agents-stall.md",
       "websitePath": "/en/digitalization/why-agents-stall/",
@@ -831,7 +831,7 @@
       "updatedAt": "2026-10-19",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/why-agents-stall.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/why-agents-stall.md",
-      "contentSha256": "16b87091a96245a5e949f8ff4a9f034dcdb8c63e906a981896532c00986bcbd2"
+      "contentSha256": "32efcafb693634843ceddd6c0ce93185c88b43900b7f925aac19c82ee613466e"
     },
     {
       "id": "en/harness-in-digitalization",

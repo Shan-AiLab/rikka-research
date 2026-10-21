@@ -18,6 +18,10 @@ That reality also includes organizational relationships. When a material shortag
 
 **A business digital twin continuously maps the relevant objects, states, rules, and relationships in business operations.** Its level of detail depends on the judgments and actions it must support. Assessing delivery risk requires representing dependencies between materials and production tasks, but may not require locating every screw on the shop floor.
 
+Digital records preserve information about the business world. A business digital twin further requires those records to correspond to real-world objects, relationships, and continuously changing states, and to support judgment and action in actual business operations.
+
+Entering more documents and data into systems therefore does not necessarily mean an enterprise is moving closer to a digital twin. What matters is whether this content gradually forms a digital environment that continually reflects business operations.
+
 ## 03 | Keeping the Digital World aligned with business changes
 
 A complete business architecture diagram is still only an understanding of the business at one moment. When a customer changes a configuration, a supplier revises a delivery date, or production requires rework, those changes must enter the corresponding digital objects and relationships for the twin to remain useful.

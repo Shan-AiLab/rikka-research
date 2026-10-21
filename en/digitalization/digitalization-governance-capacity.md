@@ -74,9 +74,25 @@ The organization has not suddenly become smarter because a system went live. Wha
 
 > **The level at which you can govern depends on the level at which reality has been modeled.**
 
+The same applies to city governance.
+
+With statistics available only at the administrative-district level, a city can identify and address problems only at a broad level. When roads, buildings, and land parcels have stable identifiers, spatial relationships are established, and geographic management zones are mapped to clearly defined responsibilities, the city gains the foundations to locate specific incidents, identify their impact, and arrange a response.
+
+Cameras can expand a city’s ability to perceive what is happening, but cameras alone are insufficient. If detected incidents cannot be linked to specific roads, buildings, rules, and responsible actors, observations are difficult to translate into precise governance action.
+
 This is why seemingly basic digitalization work on objects, tasks, and responsibilities matters so much. Without defined objects, states cannot be tracked consistently. Without defined tasks, execution progress cannot be identified accurately. Without defined responsibilities, it is difficult to say who should handle a problem.
 
 Digitalization maturity therefore does not equal the number of systems implemented, let alone the number of features in use. What matters more is whether, within a particular business domain, key objects have been identified, states are trustworthy, tasks are traceable, responsibilities are clear, and relationships and dependencies can be understood.
+
+This governance resolution can be examined further through the digital maturity of different business objects and tasks.
+
+Object maturity concerns whether an object has a stable identity, explicit relationships with other objects, and states and changes that can be tracked over time.
+
+Task maturity concerns whether a piece of work has clear triggers, actors responsible for execution, inputs and outputs, states, and completion criteria, and whether its results can feed back into the relevant business objects.
+
+The two do not necessarily develop together. An enterprise may have comprehensive material records yet still rely on procurement staff to coordinate shortages in group chats. It may also have well-developed approval and task systems that process only vaguely defined request forms.
+
+Digitalization maturity should therefore be assessed beyond an enterprise’s overall stage. It also requires examining specific business domains to understand the maturity of different objects and tasks, and whether they connect to one another.
 
 Together, these capabilities determine the level of detail at which an organization can govern itself.
 
@@ -84,9 +100,11 @@ Together, these capabilities determine the level of detail at which an organizat
 
 Traditional digitalization projects often measure how much an investment reduces staffing needs, how many forms no longer need filling out, or how many days it removes from a process. These metrics matter because digitalization must ultimately create business value. But treating those outcomes as its essence can obscure more fundamental and longer-term value.
 
-Identity cards offer a simple example. Establishing a population identity registry is not about saving a clerk a few data entries or shortening an application process by a few minutes. It creates a basic governance capability: the state can consistently identify who a person is, allowing activities in education, social security, healthcare, finance, transport, and other areas to rely on a stable digital representation of each person’s identity.
+Taxation offers a clear example. In ancient times, taxation relied on household and land registers, manual land surveys, and reporting through successive administrative levels. The range of objects that could be identified and verified, the frequency of information updates, and statistical accuracy were all constrained by the governance infrastructure of the time.
 
-Evaluating this only by reductions in staffing needs or improvements in data-entry efficiency would almost entirely miss what it creates.
+As identity registries, cadastral records, real estate registries, transaction records, and tax information systems gradually developed, governing authorities could identify taxpayers and verify relevant facts more reliably, and administer taxation at a finer level of detail.
+
+The value of this infrastructure clearly cannot be measured only by how many statistical staff it saves. More fundamentally, it expands the scope of reality that governing authorities can identify, perform calculations on, and address.
 
 The same holds for enterprise digitalization.
 

@@ -1,5 +1,3 @@
-*Complexity left unresolved in business definitions, product design, and technical implementation ultimately lands on the agent.*
-
 Large language models can already understand complex problems, generate code, call tools, and even complete multistep tasks independently. Yet in real enterprise operations, many agent projects remain at the demo stage.
 
 Are agents insufficiently capable, or are they being made to handle too much complexity that should have been addressed elsewhere?

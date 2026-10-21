@@ -36,6 +36,16 @@ Enterprise AI projects that encounter data, process, permission, or organization
 
 > **Many problems exposed by agents stem from how the business, responsibilities, and systems are defined in the preceding layers, rather than in the agent layer itself.** They cannot simply be summarized as poor enterprise data quality.
 
+Even large amounts of high-quality structured data do not mean these problems have been solved.
+
+Imagine a city with comprehensive records of residents, buildings, roads, and vehicles. The records may be detailed and their fields standardized, but whether the city can govern at a fine level of detail still depends on whether different records can refer to the same real-world object, relationships between objects are explicit, changes in state can be maintained over time, and incidents can be acted on according to rules and responsibilities.
+
+The same applies to enterprise databases. Structured data can store records without necessarily including the object relationships, state constraints, rules governing responsibilities, and mechanisms for action that business operations require.
+
+**Structured data does not necessarily constitute a structured world.**
+
+Sometimes, then, the problem with putting AI to work in an enterprise is neither insufficient data nor even poor data quality. The data has yet to form a business environment that supports ongoing judgment and action.
+
 ## 02 | The four layers form a dependency chain, not four modules
 
 Business comes first.
