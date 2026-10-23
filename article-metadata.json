@@ -87,6 +87,20 @@
       "contentSha256": "41246fda18d3f467777ad0fe2bade2e887be930c3e97ef83f3ace8a99065dec2"
     },
     {
+      "id": "zh/documents-to-computable-cognitive-assets",
+      "language": "zh",
+      "title": "从文档到可计算的认知资产",
+      "description": "基于 Cognitive IR 的人机协作知识组织方式",
+      "igPath": "path0028",
+      "file": "zh/research/documents-to-computable-cognitive-assets.md",
+      "websitePath": "/zh/research/documents-to-computable-cognitive-assets/",
+      "publishedAt": "2026-10-22",
+      "updatedAt": "2026-10-22",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/research/documents-to-computable-cognitive-assets.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/research/documents-to-computable-cognitive-assets.md",
+      "contentSha256": "2ca122b8e0333a0e672ab5aa4f807b1a142fa5594733ab36a6c25db9fa884893"
+    },
+    {
       "id": "zh/cognito-atlas",
       "language": "zh",
       "title": "Cognito Atlas｜为复杂现实建立可共享的认知地图",
@@ -445,6 +459,20 @@
       "contentSha256": "84b92369f7735c6353713fbbcce410e5fd4a9122b95db9f73ae16a6f58d614ea"
     },
     {
+      "id": "zh/modeling-domain-perspective-resolution",
+      "language": "zh",
+      "title": "知识库“建起来”了，为什么 AI 还是解决不了业务问题？",
+      "description": "建模方法论 01｜域 × 视角 × 分辨率",
+      "igPath": "path0027",
+      "file": "zh/methods/modeling-domain-perspective-resolution.md",
+      "websitePath": "/zh/methods/modeling-domain-perspective-resolution/",
+      "publishedAt": "2026-10-23",
+      "updatedAt": "2026-10-23",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/methods/modeling-domain-perspective-resolution.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/methods/modeling-domain-perspective-resolution.md",
+      "contentSha256": "1bcfcef9dc839ae28658c1049e8eb513a6cd1a4f410204112307bd2d286d6e46"
+    },
+    {
       "id": "en/worldview",
       "language": "en",
       "title": "Seeing the world as a complex system | From limited representation to decision and action",
@@ -526,6 +554,20 @@
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/research/shared-representation-computable-world.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/research/shared-representation-computable-world.md",
       "contentSha256": "b3112b5c78c7491917fae8b2978cfe47ee908bb635041efcf30adbb91fa1e590"
+    },
+    {
+      "id": "en/documents-to-computable-cognitive-assets",
+      "language": "en",
+      "title": "From documents to computable cognitive assets",
+      "description": "Organizing knowledge for human–AI collaboration with Cognitive IR",
+      "igPath": "path0028",
+      "file": "en/research/documents-to-computable-cognitive-assets.md",
+      "websitePath": "/en/research/documents-to-computable-cognitive-assets/",
+      "publishedAt": "2026-10-22",
+      "updatedAt": "2026-10-22",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/research/documents-to-computable-cognitive-assets.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/research/documents-to-computable-cognitive-assets.md",
+      "contentSha256": "c69d62f7ce8154b01c81baf9bbbf93c624ba13da9e7954ebeac6933bb1ad3981"
     },
     {
       "id": "en/cognito-atlas",
@@ -858,6 +900,20 @@
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/context-engineering-scratchpad-management.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/context-engineering-scratchpad-management.md",
       "contentSha256": "912955dd72e5fc7482136984d7e927ceb64a12bc7481704860ab17f447ae8053"
+    },
+    {
+      "id": "en/modeling-domain-perspective-resolution",
+      "language": "en",
+      "title": "You’ve built a knowledge base. Why does AI still struggle with business problems?",
+      "description": "Modeling methodology 01 | Domain × perspective × resolution",
+      "igPath": "path0027",
+      "file": "en/methods/modeling-domain-perspective-resolution.md",
+      "websitePath": "/en/methods/modeling-domain-perspective-resolution/",
+      "publishedAt": "2026-10-23",
+      "updatedAt": "2026-10-23",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/methods/modeling-domain-perspective-resolution.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/methods/modeling-domain-perspective-resolution.md",
+      "contentSha256": "79a5b63cd9772620807e7f0063e7a4fe23c819d262c2eb3dced5c7f35f31a17c"
     }
   ]
 }
