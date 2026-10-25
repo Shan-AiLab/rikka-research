@@ -15,6 +15,12 @@
 | 业务对象 | business object | 指企业业务中可被稳定识别和引用的对象。 |
 | 数字世界 | Digital World | 本站既定概念名保留 `Digital World`；普通描述可以用 `digital world` 或 `digital environment`，不将所有数字环境升级为专名。 |
 | 主体 | Actor / Agent | 一般复杂系统、人与组织等行动主体使用 `actor`；明确指 AI 时使用 `agent`。不要机械翻译为 `subject`。 |
+| 职责 | responsibility | 指持续承担的工作义务及结果责任；强调结果归属时使用 accountability。组织分工使用 division of responsibilities，具体工作分派使用 work assignment。职责数字孪生使用 `a digital twin of responsibilities`。 |
+| 业务四权 | four kinds of business authority | 治理权、支配权、执行权、监督权；业务权力用 authority，系统权限用 permission，操作权限用 action permissions。 |
+| 治理权 | governance authority | 制定或修改适用规则、标准和权力配置规则。 |
+| 支配权 | operational decision-making authority | 首次说明为在既定规则内对具体事项作决定的权力；避免 disposition authority 引起资产处置的歧义。 |
+| 执行权 | execution authority | 在授权范围内实施具体业务活动，不等同于所有数据写入操作。 |
+| 监督权 | oversight authority | 检查评价过程与结果，依授权形成结论或采取措施。 |
 | 治理 | governance | 指对复杂系统的规则、责任、约束与行动进行组织和控制的能力。 |
 | 状态 | state | 指对象在特定时间点的可判断情形。 |
 | 规则 | rule | 指稳定约束、判断条件或行动要求。 |

@@ -473,6 +473,19 @@
       "contentSha256": "1bcfcef9dc839ae28658c1049e8eb513a6cd1a4f410204112307bd2d286d6e46"
     },
     {
+      "id": "zh/agent-authorization-responsibility-digital-twin",
+      "language": "zh",
+      "title": "从 Agent 授权到职责的数字孪生",
+      "description": "Agent 需要的不是更多工具或权限，而是一份可执行的职位说明书",
+      "file": "zh/methods/agent-authorization-responsibility-digital-twin.md",
+      "websitePath": "/zh/methods/agent-authorization-responsibility-digital-twin/",
+      "publishedAt": "2026-10-25",
+      "updatedAt": "2026-10-25",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/methods/agent-authorization-responsibility-digital-twin.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/methods/agent-authorization-responsibility-digital-twin.md",
+      "contentSha256": "14c0af175b0c24f52f0eba5eca0e227a985d8b12a00c617b871586a830f1ff2e"
+    },
+    {
       "id": "en/worldview",
       "language": "en",
       "title": "Seeing the world as a complex system | From limited representation to decision and action",
@@ -914,6 +927,19 @@
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/methods/modeling-domain-perspective-resolution.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/methods/modeling-domain-perspective-resolution.md",
       "contentSha256": "79a5b63cd9772620807e7f0063e7a4fe23c819d262c2eb3dced5c7f35f31a17c"
+    },
+    {
+      "id": "en/agent-authorization-responsibility-digital-twin",
+      "language": "en",
+      "title": "From agent authorization to a digital twin of responsibilities",
+      "description": "An agent needs an executable job description, not more tools or permissions",
+      "file": "en/methods/agent-authorization-responsibility-digital-twin.md",
+      "websitePath": "/en/methods/agent-authorization-responsibility-digital-twin/",
+      "publishedAt": "2026-10-25",
+      "updatedAt": "2026-10-25",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/methods/agent-authorization-responsibility-digital-twin.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/methods/agent-authorization-responsibility-digital-twin.md",
+      "contentSha256": "ee0a8aa1f5b48357dd6d0e6feb65c40f30028afcea0ff64b88b5db2954ee95e4"
     }
   ]
 }
