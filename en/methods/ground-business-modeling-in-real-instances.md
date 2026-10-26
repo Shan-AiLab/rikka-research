@@ -2,12 +2,12 @@
 
 ## 1｜The problem: A self-consistent model is not necessarily correct
 
-A common risk in Business Modeling is that concept definitions look rigorous, relationships appear complete, and the reasoning contains no obvious contradictions, yet the entire model rests on the wrong level of abstraction.
+A common risk in business modeling is that concept definitions look rigorous, relationships appear complete, and the reasoning contains no obvious contradictions, yet the entire model rests on the wrong level of abstraction.
 
 For example, during one metamodel design exercise, AI conflated two concepts:
 
-- **Object classification**: placing business objects into higher-level categories, such as relationship objects, requirement objects, and task objects.
-- **Business object definition**: a structured definition of a particular kind of thing in the business world, such as a customer, sales contract, contract deliverable, or purchase order.
+- **object classification**: placing business objects into higher-level categories, such as relationship objects, requirement objects, and task objects.
+- **business object definition**: a structured definition of a particular kind of thing in the business world, such as a customer, sales contract, contract deliverable, or purchase order.
 
 Suppose a business metamodel already defines “object type” as a higher-level concept intended to represent categories such as relationship objects and requirement objects.
 
@@ -27,7 +27,7 @@ This shows that **correct instance mappings do not establish correct abstraction
 
 AI collaboration amplifies this risk. AI can quickly generate logically coherent models, schemas, and documents while continuing to reason from an untested abstraction, embedding the initial conceptual confusion in subsequent designs.
 
-Business Modeling therefore needs both instances that test abstractions and checks on the abstraction system’s own levels and semantic conventions.
+Business modeling therefore needs both instances that test abstractions and checks on the abstraction system’s own levels and semantic conventions.
 
 ## 2｜The method: Present abstract structures and instance data together
 
@@ -70,7 +70,7 @@ The appearance of an unusual business situation should not immediately lead to a
 
 Boundary testing asks whether **the scope of existing abstractions is reasonable**, rather than merely whether the model can accommodate one example.
 
-### 2.3 Terminology-level consistency: Does a term refer to the same level throughout the model?
+### 2.3 Terminology consistency across abstraction levels: Does each term retain a consistent meaning at its intended level?
 
 Instance mapping and boundary testing cannot replace this check.
 
@@ -89,7 +89,7 @@ Focus on these questions:
 - Are the relationships among higher-level categories, business object definitions, and their schemas clear?
 - Where a term admits several interpretations, are the contexts and meanings explicitly distinguished?
 
-**Instance mapping checks the correspondence between abstractions and reality; boundary testing checks the scope of concepts; terminology-level consistency checks semantic order within the abstraction system.**
+**Instance mapping checks the correspondence between abstractions and reality; boundary testing checks the scope of concepts; terminology consistency across abstraction levels checks semantic order within the abstraction system.**
 
 These checks address different problems and cannot replace one another.
 
@@ -217,7 +217,7 @@ For important concepts, schemas, and relationship models, the following rules ar
 2. **Show a complete instance chain for hierarchical relationships.** For example: product model → project product configuration → BOM → concrete material requirements. Explain the business meaning of each level and its relationship with adjacent levels.
 3. **Show concrete linked records for relationships between objects.** Naming relationships such as “contains” or “depends on” is insufficient; explain which specific object is linked to which other object.
 4. **Test important boundaries with at least one easily confused instance.** Explain why it belongs or does not belong to the concept.
-5. **Check consistency across terminology levels.** A term should have a stable meaning within the current model. Distinguish it explicitly when different levels need to be expressed.
+5. **Check terminology consistency across abstraction levels.** A term should have a stable meaning within the current model. Distinguish it explicitly when different levels need to be expressed.
 6. **When instances cannot be mapped, check the model’s assumptions first.** Do not simply modify the data or force it to fit the model.
 7. **Identify the source and nature of instances.** Distinguish real data, anonymized data, and constructed examples, so that reasoned scenarios are not mistaken for validated business facts.
 8. **Explain why a new object, relationship, or level is needed.** Identify which problem an existing instance exposes that the model cannot explain, and whether a simpler expression is available.
@@ -240,7 +240,7 @@ The following can serve as a default requirement for AI modeling collaboration:
 
 AI’s value is not only in generating structures quickly. It should also help discover reality that the current structure cannot explain, along with semantic problems the model itself has not yet resolved.
 
-## 6｜The final principle
+## 6｜The core principle
 
 **Abstraction should help us explain the concrete world more accurately and economically, rather than take us further away from it.**
 

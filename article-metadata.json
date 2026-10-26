@@ -959,15 +959,15 @@
     {
       "id": "en/ground-business-modeling-in-real-instances",
       "language": "en",
-      "title": "Ground abstractions in reality: Use real instances to constrain Business Modeling",
-      "description": "Modeling methodology 03 | Continually test business abstractions through instance mapping, boundary testing, and terminology-level consistency checks.",
+      "title": "Grounding Business Abstractions in Reality: Using Real Instances to Test and Refine Models",
+      "description": "Modeling methodology 03 | Continually test business abstractions through instance mapping, boundary testing, and checks of terminology consistency across abstraction levels.",
       "file": "en/methods/ground-business-modeling-in-real-instances.md",
       "websitePath": "/en/methods/ground-business-modeling-in-real-instances/",
       "publishedAt": "2026-10-26",
       "updatedAt": "2026-10-26",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/methods/ground-business-modeling-in-real-instances.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/methods/ground-business-modeling-in-real-instances.md",
-      "contentSha256": "2b8308efe0f61e19dfa726fc72e19ca1a26382b0f6fc1527e96f43c3fddec54d"
+      "contentSha256": "eccfafa7fdee1876f1931d086b825d464e364031b8fb2fe7bd5d823315d3c2d3"
     }
   ]
 }

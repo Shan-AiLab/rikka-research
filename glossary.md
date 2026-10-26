@@ -9,7 +9,7 @@
 | 认知地图／Cognito Atlas | Cognito Atlas / cognitive map | 框架专名固定使用 `Cognito Atlas`；框架形成的具体认知地图可写 `a cognitive map`。不要用产物名称循环定义框架。 |
 | 决策空间 | Decision Space / decision space | 框架专名为 `Decision Space (DS)`；具体实例可写 `a decision space`，普通复数为 `decision spaces`。 |
 | 业务地图 | Business Atlas | 理论概念固定使用 `Business Atlas`；需要强调它表示完整业务世界时可写作 `Business World Atlas`。一般地图、导航类比及局部地图使用 `map`，不机械替换为 Atlas。“完整”指所选业务范围内的完整，并非穷尽全部现实。 |
-| 业务建模 | Business Modeling | 指主动设计现实业务如何进入数字世界，并持续维护业务对象、关系、状态、规则等表征结构的建模活动。作为本文定义的概念时使用首字母大写。 |
+| 业务建模 | business modeling / Business Modeling | 指主动设计现实业务如何进入数字世界，并持续维护业务对象、关系、状态、规则等表征结构的建模活动。一般建模活动正文使用 `business modeling`；仅明确作为本站命名概念时使用 `Business Modeling`。 |
 | 表征／表示 | representation / represent | 指现实经过选择和转换后进入认知、交流、计算与行动的表达；名词用 `representation`，动作用 `represent`；正文小写，标题按句首规则，不与 `presentation` 混用。 |
 | 认知中间表征 | Cognitive IR | 作者提出的概念，首次展开为 `Cognitive IR (cognitive intermediate representation)`；保留 `Cognitive IR` 写法，指适合人、Agent 与系统共同读写、显式承载思考结构的中间表征集合，不暗示单一文件格式。 |
 | 业务对象 | business object | 指企业业务中可被稳定识别和引用的对象。 |
@@ -86,7 +86,7 @@
 ## 大小写与行文
 
 - `Cognito Atlas`、`Decision Space` 是专名，始终使用首字母大写。
-- `Business Atlas`、`Business Modeling`、`Digital World` 等本站命名概念保留大写；representation、environment model、business object、state、rule 等普通术语正文小写。文章标题、章节标题、卡片标题统一采用 sentence case：第一个词首字母大写，其余按普通英文句子处理；冒号后的副标题首词也大写。保留品牌、框架专名及 AI、BOM、HTML 等缩写。agent、harness、context engineering、representation 是普通名词，不额外大写（位于标题或副标题句首时照常大写）。
+- `Business Atlas`、`Business Modeling`、`Digital World` 等本站命名概念保留大写；representation、environment model、business object、state、rule 等普通术语正文小写。文章标题、章节标题、卡片标题默认采用 sentence case；用户明确指定的英文标题保留其大小写。默认规则为：第一个词首字母大写，其余按普通英文句子处理；冒号后的副标题首词也大写。保留品牌、框架专名及 AI、BOM、HTML 等缩写。agent、harness、context engineering、representation 是普通名词，不额外大写（位于标题或副标题句首时照常大写）。
 - 板块／栏目标题采用 Title Case（主要单词首字母大写），包括导航栏目、板块标签和首页板块名称；文章标题、文章小节标题和卡片标题仍采用上述 sentence case。
 - 中文中的 `Agent` 在英文正文里通常写作 `agent`；只有产品名、标题或专名需要大写。
 - 英文翻译以读者能够准确理解概念为优先，可调整句序、拆分长句和补充必要主语，但不能改变论证强度、概念边界或因果关系。
