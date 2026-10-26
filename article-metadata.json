@@ -476,7 +476,7 @@
       "id": "zh/agent-authorization-responsibility-digital-twin",
       "language": "zh",
       "title": "从 Agent 授权到职责的数字孪生",
-      "description": "Agent 需要的不是更多工具或权限，而是一份可执行的职位说明书",
+      "description": "建模方法论 02｜将工具与权限映射到职责，让 Agent 的行动边界可定义、可执行、可治理。",
       "igPath": "path0029",
       "file": "zh/methods/agent-authorization-responsibility-digital-twin.md",
       "websitePath": "/zh/methods/agent-authorization-responsibility-digital-twin/",
@@ -485,6 +485,19 @@
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/methods/agent-authorization-responsibility-digital-twin.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/methods/agent-authorization-responsibility-digital-twin.md",
       "contentSha256": "14c0af175b0c24f52f0eba5eca0e227a985d8b12a00c617b871586a830f1ff2e"
+    },
+    {
+      "id": "zh/ground-business-modeling-in-real-instances",
+      "language": "zh",
+      "title": "抽象必须落地：用真实实例约束业务建模",
+      "description": "建模方法论 03｜通过实例映射、边界检验与术语层级检查，持续校验业务抽象。",
+      "file": "zh/methods/ground-business-modeling-in-real-instances.md",
+      "websitePath": "/zh/methods/ground-business-modeling-in-real-instances/",
+      "publishedAt": "2026-10-26",
+      "updatedAt": "2026-10-26",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/methods/ground-business-modeling-in-real-instances.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/methods/ground-business-modeling-in-real-instances.md",
+      "contentSha256": "41ea19b6ed87af09c5a209cc8f956fd3b46f26656d00f04e73f079c456df6c0f"
     },
     {
       "id": "en/worldview",
@@ -933,7 +946,7 @@
       "id": "en/agent-authorization-responsibility-digital-twin",
       "language": "en",
       "title": "From agent authorization to a digital twin of responsibilities",
-      "description": "An agent needs an executable job description, not more tools or permissions",
+      "description": "Modeling methodology 02 | Map tools and permissions to responsibilities so agents’ action boundaries can be defined, enforced, and governed.",
       "igPath": "path0029",
       "file": "en/methods/agent-authorization-responsibility-digital-twin.md",
       "websitePath": "/en/methods/agent-authorization-responsibility-digital-twin/",
@@ -942,6 +955,19 @@
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/methods/agent-authorization-responsibility-digital-twin.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/methods/agent-authorization-responsibility-digital-twin.md",
       "contentSha256": "ee0a8aa1f5b48357dd6d0e6feb65c40f30028afcea0ff64b88b5db2954ee95e4"
+    },
+    {
+      "id": "en/ground-business-modeling-in-real-instances",
+      "language": "en",
+      "title": "Ground abstractions in reality: Use real instances to constrain Business Modeling",
+      "description": "Modeling methodology 03 | Continually test business abstractions through instance mapping, boundary testing, and terminology-level consistency checks.",
+      "file": "en/methods/ground-business-modeling-in-real-instances.md",
+      "websitePath": "/en/methods/ground-business-modeling-in-real-instances/",
+      "publishedAt": "2026-10-26",
+      "updatedAt": "2026-10-26",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/methods/ground-business-modeling-in-real-instances.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/methods/ground-business-modeling-in-real-instances.md",
+      "contentSha256": "2b8308efe0f61e19dfa726fc72e19ca1a26382b0f6fc1527e96f43c3fddec54d"
     }
   ]
 }
