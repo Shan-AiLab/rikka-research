@@ -15,6 +15,9 @@
 | 业务对象 | business object | 指企业业务中可被稳定识别和引用的对象。 |
 | 数字世界 | Digital World | 本站既定概念名保留 `Digital World`；普通描述可以用 `digital world` 或 `digital environment`，不将所有数字环境升级为专名。 |
 | 主体 | Actor / Agent | 一般复杂系统、人与组织等行动主体使用 `actor`；明确指 AI 时使用 `agent`。不要机械翻译为 `subject`。 |
+| 职能 | business function | 指业务需要持续完成的工作及其对象范围；不与编程中的 function 混淆。上下文已清晰限定为业务职能时可简称 function。 |
+| 可执行职能 | executable business function | 指已展开为对象范围、责任、状态条件、行动权限、规则与协作接口的业务职能；避免 executable function 被理解为可执行代码函数。 |
+| 职能／职责承担关系 | function assignment / responsibility assignment | function assignment 表达职能的承担分配，responsibility assignment 表达职责的承担分配；按所指层次使用，不机械互换。 |
 | 职责 | responsibility | 指持续承担的工作义务及结果责任；强调结果归属时使用 accountability。组织分工使用 division of responsibilities，具体工作分派使用 work assignment。职责数字孪生使用 `a digital twin of responsibilities`。 |
 | 业务四权 | four kinds of business authority | 治理权、支配权、执行权、监督权；业务权力用 authority，系统权限用 permission，操作权限用 action permissions。 |
 | 治理权 | governance authority | 制定或修改适用规则、标准和权力配置规则。 |

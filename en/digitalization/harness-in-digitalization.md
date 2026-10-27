@@ -1,5 +1,7 @@
 Models are already highly capable within a single call. Increasingly, the difficult question is not whether a model can perform a task, but whether it can work reliably across many steps, hours, or longer in an environment that keeps changing.
 
+Before asking how an agent can sustain its work, however, we need to ask a prior question: within which business boundaries is it allowed to act, and which constraints previously hidden in fixed workflows must be made explicit again? [“Agents will not eliminate workflows; they will force us to rethink them”](https://rikkalab.com/en/digitalization/agents-workflows-executable-functions/) addresses that layer. This article then considers how a harness connects an agent to an established business environment and its action boundaries.
+
 A real task does not automatically end when one round of reasoning finishes. An AI agent needs to remember what it has done, know how far the task has progressed, call tools, handle failures, reconstruct context, and continue judging and acting as new information arrives. Context, memory, tool use, loops, retries, handoffs, and skills all address this problem.
 
 > **The model handles one cognitive step; the harness connects countless such steps into a system that keeps running.**

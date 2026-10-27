@@ -158,13 +158,14 @@
       "language": "zh",
       "title": "让 Agent 自动处理审批，为什么得先把“审批”拆开？",
       "description": "从审批流回到业务对象、状态变化与真正需要判断的节点，重新理解 Agent 应该自动化什么。",
+      "igPath": "path0030",
       "file": "zh/cases/oa-approval-modeling.md",
       "websitePath": "/zh/cases/oa-approval-modeling/",
       "publishedAt": "2026-09-24",
-      "updatedAt": "2026-09-24",
+      "updatedAt": "2026-10-27",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/cases/oa-approval-modeling.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/cases/oa-approval-modeling.md",
-      "contentSha256": "64467f9e64844336f71609e3128bf33ae990e76972f23e899495a3454f18d18e"
+      "contentSha256": "ff4cd94d806c95f1a32d4e2748397de7ec7e559170f77d5d903bb6986bb2dc09"
     },
     {
       "id": "zh/new-productivity-production-relations",
@@ -416,7 +417,21 @@
       "updatedAt": "2026-10-19",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/digitalization/enterprise-agent-functional-division.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/digitalization/enterprise-agent-functional-division.md",
-      "contentSha256": "410e5b90308caa7d9637867900e4968fb49962366a28843abb3b8fbf4745f3bb"
+      "contentSha256": "940c7ca9d169be68dc931f2b71b013c74325ede5ee3ee8bfd2b6b544204cafb8"
+    },
+    {
+      "id": "zh/agents-workflows-executable-functions",
+      "language": "zh",
+      "title": "Agent 不会消灭工作流，它只会逼我们重新理解工作流",
+      "description": "Agent 可以打破固定执行路径，但业务依赖、风险检查和行动边界不会消失。真正的变化，是从预先规定路径走向定义可执行职能。",
+      "igPath": "path0031",
+      "file": "zh/digitalization/agents-workflows-executable-functions.md",
+      "websitePath": "/zh/digitalization/agents-workflows-executable-functions/",
+      "publishedAt": "2026-10-27",
+      "updatedAt": "2026-10-27",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/digitalization/agents-workflows-executable-functions.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/digitalization/agents-workflows-executable-functions.md",
+      "contentSha256": "0f3c81af4ef1f76ff6f18734f57a39340242682f0f1ee9daa79fd87992b7af21"
     },
     {
       "id": "zh/why-agents-stall",
@@ -443,7 +458,7 @@
       "updatedAt": "2026-09-23",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/digitalization/harness-in-digitalization.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/digitalization/harness-in-digitalization.md",
-      "contentSha256": "79fb2c011d64657823c50692f9af69db0c48b8d769d69479c4e2232379b60eb2"
+      "contentSha256": "a378c1a7e5e898261c4d9e78a614579a37d37253dcd78be1863b61ee27e24c38"
     },
     {
       "id": "zh/context-engineering-scratchpad-management",
@@ -635,6 +650,20 @@
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/cases/bom-product-definition.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/cases/bom-product-definition.md",
       "contentSha256": "9b31490d8a208fad15d3700a0d96350359f925a2460259e4693a443125453264"
+    },
+    {
+      "id": "en/oa-approval-modeling",
+      "language": "en",
+      "title": "Why must ‘approval’ be unpacked before an agent can automate it?",
+      "description": "Returning from approval workflows to business objects, state changes, and the few points that truly require judgment before deciding what an agent should automate.",
+      "igPath": "path0030",
+      "file": "en/cases/oa-approval-modeling.md",
+      "websitePath": "/en/cases/oa-approval-modeling/",
+      "publishedAt": "2026-09-24",
+      "updatedAt": "2026-10-27",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/cases/oa-approval-modeling.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/cases/oa-approval-modeling.md",
+      "contentSha256": "7c7b4344ff23b91ead4387055d2ee9f30ca8ed77633a737c4cdee50ad9fac21c"
     },
     {
       "id": "en/new-productivity-production-relations",
@@ -886,7 +915,21 @@
       "updatedAt": "2026-10-19",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/enterprise-agent-functional-division.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/enterprise-agent-functional-division.md",
-      "contentSha256": "7fe576bbd30f90c4c8306682848e903e758cb82e919992b318bbf8b26b22d12f"
+      "contentSha256": "e24bb2c354857e9f4094399b8262bf498c748fc9d50a7c93e27bcbe58a2dcd4f"
+    },
+    {
+      "id": "en/agents-workflows-executable-functions",
+      "language": "en",
+      "title": "Agents will not eliminate workflows; they will force us to rethink them",
+      "description": "Agents can break free of fixed execution paths, but business dependencies, risk checks, and action boundaries remain. The real change is from prescribing paths to defining executable business functions.",
+      "igPath": "path0031",
+      "file": "en/digitalization/agents-workflows-executable-functions.md",
+      "websitePath": "/en/digitalization/agents-workflows-executable-functions/",
+      "publishedAt": "2026-10-27",
+      "updatedAt": "2026-10-27",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/agents-workflows-executable-functions.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/agents-workflows-executable-functions.md",
+      "contentSha256": "a45fd2f211a6a6973f1e4dd5fe84cd74067aab8b1fd1e415a774b8093e6a8af3"
     },
     {
       "id": "en/why-agents-stall",
@@ -913,7 +956,7 @@
       "updatedAt": "2026-09-23",
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/harness-in-digitalization.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/harness-in-digitalization.md",
-      "contentSha256": "3fcc908e0b89a7406cd1408eb6f2aaa8415fdd5684334ad21d82c79fbb8db713"
+      "contentSha256": "553d6f0a529cca2920df6ad3a69b41f82775f9db2a041bb8374c850cf53b4d32"
     },
     {
       "id": "en/context-engineering-scratchpad-management",
