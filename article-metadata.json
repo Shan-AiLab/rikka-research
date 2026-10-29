@@ -336,6 +336,19 @@
       "contentSha256": "68586bd8185d3ea1631b0f9ef4a317c48521145a3cca4c486ad0b5d486026176"
     },
     {
+      "id": "zh/system-development-starts-with-business",
+      "language": "zh",
+      "title": "系统兜不住业务：为什么系统建设必须从业务开始",
+      "description": "业务目标和责任没有定义清楚，复杂度就会转嫁给系统，继续传递到下游，最后大家仍然靠 Excel 和人工协调。",
+      "file": "zh/digitalization/system-development-starts-with-business.md",
+      "websitePath": "/zh/digitalization/system-development-starts-with-business/",
+      "publishedAt": "2026-10-29",
+      "updatedAt": "2026-10-29",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/zh/digitalization/system-development-starts-with-business.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/zh/digitalization/system-development-starts-with-business.md",
+      "contentSha256": "5beae7b5db3dcd4f839def53fe9fd6c66d13cea09fdc4ef83064d503d9b148f4"
+    },
+    {
       "id": "zh/business-modeling-defines-representation",
       "language": "zh",
       "title": "传统企业数字化里的隐形断层：谁来定义业务如何进入数字世界？",
@@ -832,6 +845,19 @@
       "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/system-implementation-configuration-hell.md",
       "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/system-implementation-configuration-hell.md",
       "contentSha256": "a5048f9f68628b752a0df5b09aca015c1366206dc99c25aa11a997de3272a013"
+    },
+    {
+      "id": "en/system-development-starts-with-business",
+      "language": "en",
+      "title": "Why Systems Can't Make Up for Unresolved Business Problems | Why System Development Must Start with the Business",
+      "description": "When business goals and responsibilities are unclear, complexity is passed to the system and then downstream, leaving people to rely on Excel and manual coordination.",
+      "file": "en/digitalization/system-development-starts-with-business.md",
+      "websitePath": "/en/digitalization/system-development-starts-with-business/",
+      "publishedAt": "2026-10-29",
+      "updatedAt": "2026-10-29",
+      "sourceUrl": "https://github.com/Shan-AiLab/rikka-research/blob/main/en/digitalization/system-development-starts-with-business.md",
+      "versionHistoryUrl": "https://github.com/Shan-AiLab/rikka-research/commits/main/en/digitalization/system-development-starts-with-business.md",
+      "contentSha256": "4db1628e56e1cc1496fe5726cc16e6b129525fd8b8660f1fd65f34047a6378d4"
     },
     {
       "id": "en/business-modeling-defines-representation",
